@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Function Buttons",
 			"video": {
-				"url": "lessons/shared/videos/Application_FunctionButtons.mp4"
+				"url": "lessons/shared/videos/Application_FunctionButtons_WestVirginia_v2.mp4"
 			},
 
 				"cuepoints": [
@@ -17,26 +17,15 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Ok, now let's look at the rest of the functions available from the Home Screen. ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Ok, now let's look at the rest of the functions available from the Home Screen.  "
 				},
 				{
 
 					"videoControl" : {
-						"time": "4.54",
+						"time": "4.16",
 						"play": true
 					},
-					"caption": "We covered the basics of the Home Screen in the last lesson, let's focus our attention on the Function buttons.",
+					"caption": "We covered the basics of the Home Screen in the last lesson, let's focus our attention on the Function Buttons.",
 					"overlays": [
 						{
 							"left": 0,
@@ -52,10 +41,10 @@
 				{
 
 					"videoControl" : {
-						"time": "11.09",
+						"time": "11.03",
 						"play": true
 					},
-					"caption": "First, several functions are now located right on the Home Screen for your convenience.",
+					"caption": "Most used functions are right here on the Home Screen for easier accessibility.",
 					"overlays": [
 						{
 							"left": 0,
@@ -80,10 +69,10 @@
 				{
 
 					"videoControl" : {
-						"time": "17.021",
+						"time": "15.21",
 						"play": true
 					},
-					"caption": "The Terminal Settings button has moved from the Services Menu and is available here.",
+					"caption": "Terminal settings functions are also here on the Home Screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -108,7 +97,7 @@
 				{
 
 					"videoControl" : {
-						"time": "22.228",
+						"time": "19.01",
 						"play": true
 					},
 					"caption": "I'll touch Terminal Settings",
@@ -139,25 +128,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "24.204",
+						"time": "21.00",
 						"play": true
 					},
-					"caption": "to access the terminal's Brightness Control, Training Mode, Validation Auto-Inquiry and FST Sign On options.",
+					"caption": "to access the terminal's Brightness Control and Volume Control options.",
 					"overlays": [
 						{
 							"left": 0,
@@ -167,25 +147,16 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_brightness.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "32.799",
+						"time": "24.25",
 						"play": true
 					},
-					"caption": "You can use the plus and minus buttons to increase and decrease brightness",
+					"caption": "You can use the plus and minus icons to increase and decrease brightness",
 					"overlays": [
 						{
 							"left": 0,
@@ -204,25 +175,16 @@
 								"width": 800,
 								"height": 450
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_trainingValidation.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "37.469",
+						"time": "29.08",
 						"play": true
 					},
-					"caption": "and use the On/Off sliders to enable and disable the Training Mode and Validation Auto-Inquiry settings.",
+					"caption": "and volume level.",
 					"overlays": [
 						{
 							"left": 0,
@@ -241,22 +203,13 @@
 								"width": 800,
 								"height": 450
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbs.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "45.142",
+						"time": "30.16",
 						"play": true
 					},
 					"caption": "Remember the Breadcrumbs that we discussed in the previous lesson?",
@@ -284,7 +237,7 @@
 				{
 
 					"videoControl" : {
-						"time": "48.093",
+						"time": "33.07",
 						"play": true
 					},
 					"caption": "Let's use this feature now ",
@@ -297,22 +250,13 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbsHome.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "50.06",
+						"time": "35.05",
 						"play": true
 					},
 					"caption": "and touch the Home icon to return to the Home Screen.",
@@ -343,34 +287,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_services.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "53.077",
+						"time": "38.06",
 						"play": true
 					},
-					"caption": "Next, let's look at the Services menu.",
+					"caption": "Next, let's look at the Special Functions menu.",
 					"overlays": [
 						{
 							"left": 0,
@@ -395,10 +321,10 @@
 				{
 
 					"videoControl" : {
-						"time": "56.129",
+						"time": "41.11",
 						"play": true
 					},
-					"caption": "I'll touch Services",
+					"caption": "I'll touch Special Functions",
 					"overlays": [
 						{
 							"left": 0,
@@ -426,25 +352,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "57.915",
+						"time": "43.17",
 						"play": true
 					},
-					"caption": "and the Services menu displays.",
+					"caption": "and the Special Functions menu displays.",
 					"overlays": [
 						{
 							"left": 0,
@@ -460,7 +377,7 @@
 				{
 
 					"videoControl" : {
-						"time": "59.903",
+						"time": "46.03",
 						"play": true
 					},
 					"caption": "This menu has been streamlined for ease of use.",
@@ -479,7 +396,7 @@
 				{
 
 					"videoControl" : {
-						"time": "63.088",
+						"time": "49.09",
 						"play": true
 					},
 					"caption": "All of your services options, including terminal diagnostics tests, display right here on this menu!",
@@ -492,22 +409,13 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_servicesHome.png",
-								"width": 800,
-								"height": 450
-							}						
 						}
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "69.225",
+						"time": "55.06",
 						"play": true
 					},
 					"caption": "Back to the Home Screen,",
@@ -538,25 +446,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reprints_reports_cancel.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "70.846",
+						"time": "56.21",
 						"play": true
 					},
-					"caption": "the Reprints, Reports and Cancel Ticket functions have all moved from other menus to right here.",
+					"caption": "The Reports menu is slightly different, let me show you. Let's look at the Reports menu.",
 					"overlays": [
 						{
 							"left": 0,
@@ -575,90 +474,72 @@
 								"width": 800,
 								"height": 450
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reprints_cancel.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "77.531",
-						"play": true
-					},
-					"caption": "The Reprints and Cancel Ticket functions are exactly the same, they have just been moved to your Home Screen.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reprints_cancel.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reports.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "83.844",
-						"play": true
-					},
-					"caption": "The Reports menu is slightly different, let me show you.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reports.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "87.177",
+						"time": "58.24",
 						"play": true
 					},
 					"caption": "I'll touch Reports",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_reprints_cancel.png",
+								"width": 800,
+								"height": 450
+							}						
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "60.23",
+						"play": true
+					},
+					"caption": "and the Reports menu displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_reports.png",
+								"width": 800,
+								"height": 450
+							}						
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "62.27",
+						"play": true
+					},
+					"caption": "Buttons with black arrows on the corner provide access to other selections, which display right on the screen. Let me show you.",
 					"overlays": [
 						{
 							"left": 0,
@@ -686,25 +567,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reports.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "88.914",
+						"time": "65.05",
 						"play": true
 					},
-					"caption": "and the Reports menu displays.",
+					"caption": "I'll touch Winner Information,",
 					"overlays": [
 						{
 							"left": 0,
@@ -720,10 +592,10 @@
 				{
 
 					"videoControl" : {
-						"time": "91.2",
+						"time": "67.10",
 						"play": true
 					},
-					"caption": "The Reports menu now allows you to easily view and print all Reports and Financial Reports from one menu.",
+					"caption": "select the Cash 25 game,",
 					"overlays": [
 						{
 							"left": 0,
@@ -739,25 +611,16 @@
                             "top": 327,
                             "label": "Access All Reports From This Menu",
                             "blink": "none"						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_winner.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "98.379",
+						"time": "69.01",
 						"play": true
 					},
-					"caption": "Buttons with black arrows on the corner provide access to other selections, which display right on the screen. Let me show you.",
+					"caption": "and touch Send.",
 					"overlays": [
 						{
 							"left": 0,
@@ -782,10 +645,10 @@
 				{
 
 					"videoControl" : {
-						"time": "105.775",
+						"time": "70.25",
 						"play": true
 					},
-					"caption": "I'll touch Winner Information,",
+					"caption": "The report displays.",
 					"overlays": [
 						{
 							"left": 0,
@@ -813,34 +676,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/select-game.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_cash5.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "107.786",
+						"time": "76.10",
 						"play": true
 					},
-					"caption": "select the Cash 5 game,",
+					"caption": "You'll notice that the Number of Copies and Print buttons display at the bottom of the screen. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -868,34 +713,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/select-date.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_send.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "110.119",
+						"time": "82.14",
 						"play": true
 					},
-					"caption": "and touch Send.",
+					"caption": "These options display on all report screens so you can easily print copies of your reports for your records.",
 					"overlays": [
 						{
 							"left": 0,
@@ -923,109 +750,82 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "112.074",
-						"play": true
-					},
-					"caption": "The Report displays.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_number_print.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "113.44",
-						"play": true
-					},
-					"caption": "You'll notice that the Number of Copies and Print buttons display at the bottom of the screen. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_number_print.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "119.056",
-						"play": true
-					},
-					"caption": "These options display on all Report screens so you can easily print copies of your Reports for your records.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_cash5_home.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "125.148",
+						"time": "85.12",
 						"play": true
 					},
 					"caption": "I'll touch Home to return to the Home Screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "93.11",
+						"play": true
+					},
+					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Scratch Off tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_number_print.png",
+								"width": 800,
+								"height": 450
+							}						
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "99.09",
+						"play": true
+					},
+					"caption": "Remember, Draw Game tickets can be read using either the Reader or Bar code Scanner.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "102.21",
+						"play": true
+					},
+					"caption": "If you use the Reader, touch Online Validation",
 					"overlays": [
 						{
 							"left": 0,
@@ -1053,34 +853,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_online_instant.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "128.086",
+						"time": "107.04",
 						"play": true
 					},
-					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Scratchers tickets.",
+					"caption": "and drop the ticket into the Reader with the front play area facing you.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1105,29 +887,18 @@
 				{
 
 					"videoControl" : {
-						"time": "136.455",
+						"time": "113.21",
 						"play": true
 					},
-					"caption": "Remember, Draw Game tickets can be read using either the Play Slip Reader or External Barcode Scanner.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-online-tkt.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "You could also use the Validate Ticket function on the Online Functions menu to validate a draw game ticket."
 				},
 				{
 
 					"videoControl" : {
-						"time": "142.546",
+						"time": "118.19",
 						"play": true
 					},
-					"caption": "For Draw Game tickets, if you use the Play Slip Reader, simply drop the ticket into the Reader with the printed side facing you.",
+					"caption": "If you use the Barcode Scanner,",
 					"overlays": [
 						{
 							"left": 0,
@@ -1137,71 +908,35 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/barcode-scanner.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "150.37",
-						"play": true
-					},
-					"caption": "If you use the External Barcode Scanner, ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/barcode-scanner.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineValidation.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 193,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "152.81",
+						"time": "120.12",
 						"play": true
 					},
 					"caption": "first, you must touch Online Validation",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/barcode-scanner.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "125.08",
+						"play": true
+					},
+					"caption": "and then scan the ticket.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1229,25 +964,16 @@
 								"width": 76,
 								"height": 132
 							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan-online-tkt.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "155.773",
+						"time": "128.24",
 						"play": true
 					},
-					"caption": "and then scan the ticket.",
+					"caption": "For Scratch Off tickets, you must use your Bar code Scanner to read the bar code. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -1257,25 +983,16 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/barcode-scanner.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "157.658",
+						"time": "133.04",
 						"play": true
 					},
-					"caption": "For Scratchers tickets, you must use your new External Barcode Scanner to read the barcode. ",
+					"caption": "You can use the Instant Validation button here",
 					"overlays": [
 						{
 							"left": 0,
@@ -1285,25 +1002,16 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "163.481",
+						"time": "139.07",
 						"play": true
 					},
-					"caption": "Never insert Scratchers into the Play Slip Reader at the top of the terminal as it will damage the Reader lens!",
+					"caption": "or the Validate Ticket function on your Instant Functions menu.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1319,412 +1027,49 @@
 				{
 
 					"videoControl" : {
-						"time": "169.873",
+						"time": "140.07",
 						"play": true
 					},
-					"caption": "The validation rules remain the same for both Scratchers and Draw Game tickets.",
+					"caption": "Never insert Scratch Offs into the Reader at the top of the terminal as it will damage the Reader lens!",
 					"overlays": [
 						{
-                            "left": 550,
-                            "top": 10,
-                            "label": "Validation Rules Are the Same",
-                            "blink": "none"
-						},
-						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.jpg",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_responsible.png",
-								"width": 800,
-								"height": 450
-							}						
 						}
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "174.443",
+						"time": "142.07",
 						"play": true
 					},
-					"caption": "The Play Responsibly button prints a receipt with the toll-free number for the Virginia Problem Gambling Helpline for players with a potential gambling problem.",
+					"caption": "And that wraps up the Function Buttons!",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.jpg",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_responsible.png",
-								"width": 800,
-								"height": 450
-							}						
 						}
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "183.485",
-						"play": true
-					},
-					"caption": "The last function button that we'll cover is new.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineInstantFunctions.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "186.378",
-						"play": true
-					},
-					"caption": "The Online/Instant Functions button has been added to the Altura Flex application.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineInstantFunctions.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineInstantFunctions.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "191.426",
-						"play": true
-					},
-					"caption": "It replaces the Online Functions and Pack Management screens from your previous terminal.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineInstantFunctions.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-                            "left": 200,
-                            "top": 175,
-                            "label": "Replaces Online Functions and Pack Management",
-                            "blink": "none"						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "196.817",
-						"play": true
-					},
-					"caption": "I'll touch Online/Instant functions",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineInstantFunctions.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": 27,
-							"top": 174,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_confirm.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "199.606",
-						"play": true
-					},
-					"caption": "and the menu displays options for Confirm Delivery,",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_confirm.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_activate.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "203.091",
-						"play": true
-					},
-					"caption": "Activate Pack,",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_activate.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_EZ.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "204.663",
-						"play": true
-					},
-					"caption": "EZ Cards,",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_EZ.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_sign_on.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "206.262",
-						"play": true
-					},
-					"caption": "and SR Sign On.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_sign_on.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_all_online_val_options.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "208.332",
-						"play": true
-					},
-					"caption": "The procedures for using these options are similar to what you are used to, they just look slightly different.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/online-instant-functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_all_online_val_options.png",
-								"width": 800,
-								"height": 450
-							}						
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "213.784",
-						"play": true
-					},
-					"caption": "And that wraps up the Function Buttons!"
-				}]
+				}
+				
+				
+				
+				
+				
+				
+				
+				]
 },
 				{
 
