@@ -17,21 +17,13 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Ok, now let's look at the rest of the functions available from the Home Screen.  "
-				},
-				{
-
-					"videoControl" : {
-						"time": "4.16",
-						"play": true
-					},
-					"caption": "We covered the basics of the Home Screen in the last lesson, let's focus our attention on the Function Buttons.",
+					"caption": "Ok, now let's look at the rest of the functions available from the Home Screen.  ",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -41,7 +33,26 @@
 				{
 
 					"videoControl" : {
-						"time": "11.03",
+						"time": "5.273",
+						"play": true
+					},
+					"caption": "We covered the basics of the Home Screen in the last lesson, let's focus our attention on the Function Buttons.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.367",
 						"play": true
 					},
 					"caption": "Most used functions are right here on the Home Screen for easier accessibility.",
@@ -50,7 +61,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -69,7 +80,7 @@
 				{
 
 					"videoControl" : {
-						"time": "15.21",
+						"time": "16.081",
 						"play": true
 					},
 					"caption": "Terminal settings functions are also here on the Home Screen.",
@@ -78,7 +89,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -97,7 +108,7 @@
 				{
 
 					"videoControl" : {
-						"time": "19.01",
+						"time": "19.296",
 						"play": true
 					},
 					"caption": "I'll touch Terminal Settings",
@@ -106,7 +117,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -134,7 +145,7 @@
 				{
 
 					"videoControl" : {
-						"time": "21.00",
+						"time": "21.283",
 						"play": true
 					},
 					"caption": "to access the terminal's Brightness Control and Volume Control options.",
@@ -143,7 +154,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -153,7 +164,7 @@
 				{
 
 					"videoControl" : {
-						"time": "24.25",
+						"time": "25.19",
 						"play": true
 					},
 					"caption": "You can use the plus and minus icons to increase and decrease brightness",
@@ -162,7 +173,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -181,7 +192,7 @@
 				{
 
 					"videoControl" : {
-						"time": "29.08",
+						"time": "29.449",
 						"play": true
 					},
 					"caption": "and volume level.",
@@ -190,7 +201,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -209,7 +220,7 @@
 				{
 
 					"videoControl" : {
-						"time": "30.16",
+						"time": "30.883",
 						"play": true
 					},
 					"caption": "Remember the Breadcrumbs that we discussed in the previous lesson?",
@@ -218,7 +229,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -237,7 +248,7 @@
 				{
 
 					"videoControl" : {
-						"time": "33.07",
+						"time": "33.682",
 						"play": true
 					},
 					"caption": "Let's use this feature now ",
@@ -246,7 +257,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -256,7 +267,7 @@
 				{
 
 					"videoControl" : {
-						"time": "35.05",
+						"time": "35.725",
 						"play": true
 					},
 					"caption": "and touch the Home icon to return to the Home Screen.",
@@ -265,7 +276,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-settings.jpg",
+								"url": "lessons/shared/images/terminal-settings.png",
 								"width": 800,
 								"height": 450
 							}
@@ -293,7 +304,7 @@
 				{
 
 					"videoControl" : {
-						"time": "38.06",
+						"time": "38.448",
 						"play": true
 					},
 					"caption": "Next, let's look at the Special Functions menu.",
@@ -302,7 +313,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -321,7 +332,7 @@
 				{
 
 					"videoControl" : {
-						"time": "41.11",
+						"time": "41.427",
 						"play": true
 					},
 					"caption": "I'll touch Special Functions",
@@ -330,7 +341,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -358,7 +369,7 @@
 				{
 
 					"videoControl" : {
-						"time": "43.17",
+						"time": "43.594",
 						"play": true
 					},
 					"caption": "and the Special Functions menu displays.",
@@ -367,7 +378,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.jpg",
+								"url": "lessons/shared/images/services.png",
 								"width": 800,
 								"height": 450
 							}
@@ -377,7 +388,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.03",
+						"time": "46.233",
 						"play": true
 					},
 					"caption": "This menu has been streamlined for ease of use.",
@@ -386,7 +397,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.jpg",
+								"url": "lessons/shared/images/services.png",
 								"width": 800,
 								"height": 450
 							}
@@ -396,7 +407,7 @@
 				{
 
 					"videoControl" : {
-						"time": "49.09",
+						"time": "49.381",
 						"play": true
 					},
 					"caption": "All of your services options, including terminal diagnostics tests, display right here on this menu!",
@@ -405,7 +416,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.jpg",
+								"url": "lessons/shared/images/services.png",
 								"width": 800,
 								"height": 450
 							}
@@ -415,7 +426,7 @@
 				{
 
 					"videoControl" : {
-						"time": "55.06",
+						"time": "55.299",
 						"play": true
 					},
 					"caption": "Back to the Home Screen,",
@@ -424,7 +435,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.jpg",
+								"url": "lessons/shared/images/services.png",
 								"width": 800,
 								"height": 450
 							}
@@ -452,16 +463,16 @@
 				{
 
 					"videoControl" : {
-						"time": "56.21",
+						"time": "56.821",
 						"play": true
 					},
-					"caption": "The Reports menu is slightly different, let me show you. Let's look at the Reports menu.",
+					"caption": "Let's look at the Reports menu.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -480,7 +491,7 @@
 				{
 
 					"videoControl" : {
-						"time": "58.24",
+						"time": "59.03",
 						"play": true
 					},
 					"caption": "I'll touch Reports",
@@ -489,7 +500,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -508,7 +519,7 @@
 				{
 
 					"videoControl" : {
-						"time": "60.23",
+						"time": "61.094",
 						"play": true
 					},
 					"caption": "and the Reports menu displays.",
@@ -517,7 +528,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -533,47 +544,11 @@
 						}
 					]
 				},
+				
 				{
 
 					"videoControl" : {
-						"time": "62.27",
-						"play": true
-					},
-					"caption": "Buttons with black arrows on the corner provide access to other selections, which display right on the screen. Let me show you.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reports.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": 41,
-							"top": 203,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "65.05",
+						"time": "63.601",
 						"play": true
 					},
 					"caption": "I'll touch Winner Information,",
@@ -582,7 +557,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.jpg",
+								"url": "lessons/shared/images/reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -592,7 +567,7 @@
 				{
 
 					"videoControl" : {
-						"time": "67.10",
+						"time": "65.514",
 						"play": true
 					},
 					"caption": "select the Cash 25 game,",
@@ -601,7 +576,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.jpg",
+								"url": "lessons/shared/images/reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -617,7 +592,7 @@
 				{
 
 					"videoControl" : {
-						"time": "69.01",
+						"time": "67.945",
 						"play": true
 					},
 					"caption": "and touch Send.",
@@ -626,7 +601,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.jpg",
+								"url": "lessons/shared/images/reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -645,7 +620,7 @@
 				{
 
 					"videoControl" : {
-						"time": "70.25",
+						"time": "69.997",
 						"play": true
 					},
 					"caption": "The report displays.",
@@ -654,7 +629,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.jpg",
+								"url": "lessons/shared/images/reports.png",
 								"width": 800,
 								"height": 450
 							}
@@ -682,7 +657,7 @@
 				{
 
 					"videoControl" : {
-						"time": "76.10",
+						"time": "71.884",
 						"play": true
 					},
 					"caption": "You'll notice that the Number of Copies and Print buttons display at the bottom of the screen. ",
@@ -691,7 +666,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/select-game.jpg",
+								"url": "lessons/shared/images/select-game.png",
 								"width": 800,
 								"height": 450
 							}
@@ -719,7 +694,7 @@
 				{
 
 					"videoControl" : {
-						"time": "82.14",
+						"time": "76.951",
 						"play": true
 					},
 					"caption": "These options display on all report screens so you can easily print copies of your reports for your records.",
@@ -728,7 +703,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/select-date.jpg",
+								"url": "lessons/shared/images/select-date.png",
 								"width": 800,
 								"height": 450
 							}
@@ -756,7 +731,7 @@
 				{
 
 					"videoControl" : {
-						"time": "85.12",
+						"time": "83.095",
 						"play": true
 					},
 					"caption": "I'll touch Home to return to the Home Screen.",
@@ -765,7 +740,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"url": "lessons/shared/images/cash5-winner-info.png",
 								"width": 800,
 								"height": 450
 							}
@@ -775,7 +750,7 @@
 				{
 
 					"videoControl" : {
-						"time": "93.11",
+						"time": "85.829",
 						"play": true
 					},
 					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Scratch Off tickets.",
@@ -784,7 +759,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"url": "lessons/shared/images/cash5-winner-info.png",
 								"width": 800,
 								"height": 450
 							}
@@ -803,7 +778,7 @@
 				{
 
 					"videoControl" : {
-						"time": "99.09",
+						"time": "93.687",
 						"play": true
 					},
 					"caption": "Remember, Draw Game tickets can be read using either the Reader or Bar code Scanner.",
@@ -812,7 +787,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"url": "lessons/shared/images/cash5-winner-info.png",
 								"width": 800,
 								"height": 450
 							}
@@ -822,7 +797,7 @@
 				{
 
 					"videoControl" : {
-						"time": "102.21",
+						"time": "99.52",
 						"play": true
 					},
 					"caption": "If you use the Reader, touch Online Validation",
@@ -831,7 +806,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.jpg",
+								"url": "lessons/shared/images/cash5-winner-info.png",
 								"width": 800,
 								"height": 450
 							}
@@ -859,7 +834,7 @@
 				{
 
 					"videoControl" : {
-						"time": "107.04",
+						"time": "103.061",
 						"play": true
 					},
 					"caption": "and drop the ticket into the Reader with the front play area facing you.",
@@ -868,7 +843,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -887,7 +862,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.21",
+						"time": "107.331",
 						"play": true
 					},
 					"caption": "You could also use the Validate Ticket function on the Online Functions menu to validate a draw game ticket."
@@ -895,7 +870,7 @@
 				{
 
 					"videoControl" : {
-						"time": "118.19",
+						"time": "113.88",
 						"play": true
 					},
 					"caption": "If you use the Barcode Scanner,",
@@ -904,7 +879,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-online-tkt.jpg",
+								"url": "lessons/shared/images/inserting-online-tkt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -914,7 +889,7 @@
 				{
 
 					"videoControl" : {
-						"time": "120.12",
+						"time": "116.403",
 						"play": true
 					},
 					"caption": "first, you must touch Online Validation",
@@ -923,7 +898,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner.jpg",
+								"url": "lessons/shared/images/barcode-scanner.png",
 								"width": 800,
 								"height": 450
 							}
@@ -933,7 +908,7 @@
 				{
 
 					"videoControl" : {
-						"time": "125.08",
+						"time": "118.85",
 						"play": true
 					},
 					"caption": "and then scan the ticket.",
@@ -942,7 +917,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -970,7 +945,7 @@
 				{
 
 					"videoControl" : {
-						"time": "128.24",
+						"time": "120.68",
 						"play": true
 					},
 					"caption": "For Scratch Off tickets, you must use your Bar code Scanner to read the bar code. ",
@@ -979,7 +954,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-online-tkt.jpg",
+								"url": "lessons/shared/images/scan-online-tkt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -989,7 +964,7 @@
 				{
 
 					"videoControl" : {
-						"time": "133.04",
+						"time": "125.405",
 						"play": true
 					},
 					"caption": "You can use the Instant Validation button here",
@@ -998,7 +973,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner.jpg",
+								"url": "lessons/shared/images/barcode-scanner.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1008,7 +983,7 @@
 				{
 
 					"videoControl" : {
-						"time": "139.07",
+						"time": "129.013",
 						"play": true
 					},
 					"caption": "or the Validate Ticket function on your Instant Functions menu.",
@@ -1017,7 +992,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1027,7 +1002,7 @@
 				{
 
 					"videoControl" : {
-						"time": "140.07",
+						"time": "133.585",
 						"play": true
 					},
 					"caption": "Never insert Scratch Offs into the Reader at the top of the terminal as it will damage the Reader lens!",
@@ -1036,7 +1011,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1046,7 +1021,7 @@
 				{
 
 					"videoControl" : {
-						"time": "142.07",
+						"time": "139.63",
 						"play": true
 					},
 					"caption": "And that wraps up the Function Buttons!",
@@ -1055,7 +1030,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.png",
 								"width": 800,
 								"height": 450
 							}
