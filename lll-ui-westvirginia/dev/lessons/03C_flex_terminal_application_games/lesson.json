@@ -1,0 +1,962 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Game Buttons",
+			"video": {
+				"url": "lessons/shared/videos/Application_GameButtons.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Ok, now let's look at this area of the screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_game_buttons.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "0.5",
+						"play": true
+					},
+					"caption": "Ok, now let's look at this area of the screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_game_buttons.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "3.528",
+						"play": true
+					},
+					"caption": "These are the Game buttons used for generating tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_game_buttons.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_ez_picks.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.497",
+						"play": true
+					},
+					"caption": "You can still generate Easy Picks right from the Home Screen using these buttons.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_ez_picks.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/playslip-collage.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.066",
+						"play": true
+					},
+					"caption": "Similarly, you can also still produce tickets using completed Play Slips.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/playslip-collage.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-horizontal.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "15.99",
+						"play": true
+					},
+					"caption": "One difference with Play Slips is that you can now insert them into the Play Slip Reader either horizontally",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-horizontal.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "21.746",
+						"play": true
+					},
+					"caption": "or vertically,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "23.2",
+						"play": true
+					},
+					"caption": "as long as the front of the Play Slip is facing you.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "25.95",
+						"play": true
+					},
+					"caption": "Let's take a look at manually entering wagers."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "29.189",
+						"play": true
+					},
+					"caption": "Let's use Powerball as an example. ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_powerball.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 136,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.44",
+						"play": true
+					},
+					"caption": "I'll touch Powerball",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_powerball.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 259,
+							"top": 196,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "33.458",
+						"play": true
+					},
+					"caption": "and the Powerball options screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_all_options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "35.875",
+						"play": true
+					},
+					"caption": "All of the default wager options, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_all_options.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_1draw_orange.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.241",
+						"play": true
+					},
+					"caption": "such as 1 Draw, are orange indicating they are selected.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_1draw_orange.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "42.594",
+						"play": true
+					},
+					"caption": "Changing options is really easy, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_1draw_orange.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_3draw_orange.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 156,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "45.2",
+						"play": true
+					},
+					"caption": "simply touch another button such as 3",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_3draw_orange.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 128,
+							"top": 218,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-3draws.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "48.341",
+						"play": true
+					},
+					"caption": "and 3 Draws are now selected.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-3draws.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.909",
+						"play": true
+					},
+					"caption": "All wager options are selected on this one screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-3draws.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_manual_easy.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "54.311",
+						"play": true
+					},
+					"caption": "To manually enter a player's numbers you can touch Manual Entry or Easy Pick right from this screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-3draws.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_manual_easy.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_manual_only.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "61.3",
+						"play": true
+					},
+					"caption": "If I choose Manual Entry",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-3draws.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_manual_only.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 585,
+							"top": 111,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.238",
+						"play": true
+					},
+					"caption": "the Manual Entry screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "65.706",
+						"play": true
+					},
+					"caption": "From here I can enter the player's numbers,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_easy_pick.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "68.425",
+						"play": true
+					},
+					"caption": " or choose an Easy Pick.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_easy_pick.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-numbers.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.196",
+						"play": true
+					},
+					"caption": "Numbers turn orange when selected,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-numbers.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "73.796",
+						"play": true
+					},
+					"caption": "even the Power Ball.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-numbers.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "75.384",
+						"play": true
+					},
+					"caption": "Easy right?",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-numbers.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_gameTabs.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "76.911",
+						"play": true
+					},
+					"caption": "One more thing I should point out are the Game Tabs on the top of the screen here.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_gameTabs.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "81.736",
+						"play": true
+					},
+					"caption": "These replace the small game buttons to toggle between games.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_gameTabs.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_powerball_tab.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "85.157",
+						"play": true
+					},
+					"caption": "The game currently selected displays a green tab",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_powerball_tab.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_grey_tabs.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "88.443",
+						"play": true
+					},
+					"caption": "and the other available games display grey tabs.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_grey_tabs.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "92.134",
+						"play": true
+					},
+					"caption": "Now I'll give you the chance to place a wager using the new game screens."
+
+				}]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

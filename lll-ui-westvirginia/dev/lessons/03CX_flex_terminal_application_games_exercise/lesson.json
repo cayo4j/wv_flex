@@ -1,0 +1,852 @@
+{
+    "title": "Game Buttons – Exercise",
+    "activities": [
+        {
+            "type": "video",
+            "name": " ",
+            "video": {
+                "url": "lessons/shared/videos/Powerball_Do_WhiteFrame_2.mp4"
+            },
+            "cuepoints": [
+                {
+                    "videoControl": {
+                        "time": 0,
+                        "play": true
+                    },
+                    "caption": "Here's the player now!",
+                    "overlays": [
+                        {
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/homescreen.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+                        {
+                            "left": -9999,
+                            "top": 180,
+                            "image": {
+                                "url": "lessons/shared/images/powerball_btn.png",
+                                "width": 74,
+                                "height": 34
+                            }
+                        }
+                    ]
+                },
+                {
+                    "videoControl": {
+                        "time": 1.70,
+                        "play": true
+                    },
+                    "caption": "Hi, I want a Powerball ticket for 2 panels and 3 draws."
+                },
+                {
+                    "videoControl": {
+                        "time": 5.30,
+                        "play": true
+                    },
+                    "caption": "For the first panel I want the numbers 1, 5, 10, 12, and 15 and the Powerball 2."
+                },
+                {
+                    "videoControl": {
+                        "time": 12.50,
+                        "play": true
+                    },
+                    "caption": "For the second panel I'll just take an Easy Pick. Thanks!"
+                },
+                {
+                    "videoControl": {
+                        "time": 15.50,
+                        "play": true
+                    },
+                    "caption": "Here are the game options for this player.  Go ahead and give it a shot!",
+					"overlays": [
+						{
+                            "left": 25,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPowerball, 2 panels, 3 Draws.\nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick.  <br/>Power Play: No.",
+                            "blink": "none"
+						}
+					]
+                },
+		{
+			"type": "guiSimulation",
+			"name": "Your New Altura Flex Terminal – Game Buttons – Exercise ",
+			"label": " ",
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/homescreen.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 248,
+                            "top": 180,
+                            "image": {
+                                "url": "lessons/shared/images/powerball_btn.png",
+                                "width": 74,
+                                "height": 34
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-options.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 25,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPowerball, 2 panels, 3 Draws.\nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-options.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 109,
+                            "top": 171,
+                            "image": {
+                                "url": "lessons/shared/images/2panels_btn.png",
+                                "width": 27,
+                                "height": 26
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-2panels.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 52,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: 2 panels, 3 Draws.\nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-2panels.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 138,
+                            "top": 205,
+                            "image": {
+                                "url": "lessons/shared/images/3draws_btn.png",
+                                "width": 27,
+                                "height": 28
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-2panels-3draws.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 86,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: 3 Draws.\nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-2panels-3draws.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 570,
+                            "top": 99,
+                            "image": {
+                                "url": "lessons/shared/images/manual_entry_btn.png",
+                                "width": 109,
+                                "height": 30
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-manual-entry.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-manual-entry.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 211,
+                            "top": 136,
+                            "image": {
+                                "url": "lessons/shared/images/1_btn.png",
+                                "width": 27,
+                                "height": 28
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-1.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-1.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 326,
+                            "top": 135,
+                            "image": {
+                                "url": "lessons/shared/images/5_btn.jpg",
+                                "width": 30,
+                                "height": 28
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-5.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-5.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 474,
+                            "top": 136,
+                            "image": {
+                                "url": "lessons/shared/images/10_btn.png",
+                                "width": 27,
+                                "height": 28
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-10.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-10.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 533,
+                            "top": 136,
+                            "image": {
+                                "url": "lessons/shared/images/12_btn.png",
+                                "width": 26,
+                                "height": 28
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-12.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-12.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 621,
+                            "top": 137,
+                            "image": {
+                                "url": "lessons/shared/images/15_btn.png",
+                                "width": 26,
+                                "height": 27
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-15.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-number-15.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 239,
+                            "top": 288,
+                            "image": {
+                                "url": "lessons/shared/images/powerball_2_btn.png",
+                                "width": 28,
+                                "height": 27
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-board-a-complete.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 102,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 1: Numbers 1, 5, 10, 12, 15 and Powerball 2. \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-board-a-complete.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 685,
+                            "top": 99,
+                            "image": {
+                                "url": "lessons/shared/images/easy_pick_btn.png",
+                                "width": 110,
+                                "height": 30
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-board-b-complete.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 275,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: \nPanel 2: Easy Pick. <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-board-b-complete.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 685,
+                            "top": 411,
+                            "image": {
+                                "url": "lessons/shared/images/send_btn.png",
+                                "width": 109,
+                                "height": 31
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-powerplay.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 315,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-powerplay.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 483,
+                            "top": 239,
+                            "image": {
+                                "url": "lessons/shared/images/btn_no_powerplay.jpg",
+                                "width": 68,
+                                "height": 31
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+						{
+                            "left": -9999,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-confirmation.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 315,
+                            "top": 400,
+                            "label": "WAGER OPTIONS: <br/>Power Play: No.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-confirmation.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 251,
+                            "top": 320,
+                            "image": {
+                                "url": "lessons/shared/images/btn_yes_confirmation.png",
+                                "width": 65,
+                                "height": 34
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        }
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        }
+            ]
+        },
+        {
+            "type": "summary",
+            "name": "Summary"
+        }
+    ]
+}

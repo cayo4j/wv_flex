@@ -1,0 +1,81 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Course End",
+			"video": {
+				"url": "lessons/shared/videos/CourseEnd.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Well, that's it!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "2.03",
+						"play": true
+					},
+					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+				},
+				{
+
+					"videoControl" : {
+						"time": "7.08",
+						"play": true
+					},
+					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+				},
+				{
+
+					"videoControl" : {
+						"time": "12",
+						"play": true
+					},
+					"caption": "To receive your certificate, just answer the questions on the following screens."
+				},
+				{
+
+					"videoControl" : {
+						"time": "16.96",
+						"play": true
+					},
+					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+				},
+				{
+
+					"videoControl" : {
+						"time": "22.14",
+						"play": true
+					},
+					"caption": "Once you have your certificate, you'll be on your way."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "25.02",
+						"play": true
+					},
+					"caption": "Good Luck!"
+				}
+				]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

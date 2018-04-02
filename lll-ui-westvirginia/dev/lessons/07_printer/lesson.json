@@ -1,0 +1,690 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Printer",
+			"video": {
+				"url": "lessons/shared/videos/Printer.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "The new Printer used with your Altura Flex terminal is the AccuTherm Ultra.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ultra-printer.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ultra-printer.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+					"videoControl" : {
+						"time": "0.5",
+						"play": true
+					},
+					"caption": "The new Printer used with your Altura Flex terminal is the AccuTherm Ultra.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ultra-printer.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "4.865",
+						"play": true
+					},
+					"caption": "The Printer uses heat to print on special thermal paper."
+				},
+				{
+
+					"videoControl" : {
+						"time": "8.628",
+						"play": true
+					},
+					"caption": "There are several new features with this Printer, starting with the clear cover here on the top."
+				},
+				{
+
+					"videoControl" : {
+						"time": "13.691",
+						"play": true
+					},
+					"caption": "Right at the base of the cover is the anti-jam deflector that significantly reduces paper jams.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/paper-roll.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.499",
+						"play": true
+					},
+					"caption": "When you get your Printer you will notice that the paper roll is larger than the current paper rolls. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/paper-roll.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "24.486",
+						"play": true
+					},
+					"caption": "The AccuTherm Ultra accepts larger rolls up to 7.5\".",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/paper-roll.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-sensor-highlights.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "29.292",
+						"play": true
+					},
+					"caption": "Next, smart sensors inside the Printer detect paper conditions such as Paper Low, Paper Out and Cover Open",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-sensor-highlights.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.112",
+						"play": true
+					},
+					"caption": "and these messages will display on your Altura Flex terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "41.993",
+						"play": true
+					},
+					"caption": "You should never have to worry about your Printer running out of paper. ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "45.158",
+						"play": true
+					},
+					"caption": "The terminal will display PAPER LOW when the Printer detects the paper is getting low.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 319,
+                            "top": 146,
+                            "label": "PAPER LOW",
+                            "blink": "none"	
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.689",
+						"play": true
+					},
+					"caption": "You should change the paper as soon as possible after the message appears."
+				},
+				{
+
+					"videoControl" : {
+						"time": "54.831",
+						"play": true
+					},
+					"caption": "If the message is ignored, the Printer will function until it no longer detects enough paper.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-no-paper.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "60.143",
+						"play": true
+					},
+					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-no-paper.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "67.386",
+						"play": true
+					},
+					"caption": "OK.  So how do you change your paper roll and run a Printer Test?"
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.657",
+						"play": true
+					},
+					"caption": "First, press the silver button on the Printer Cover"
+				},
+				{
+
+					"videoControl" : {
+						"time": "74.869",
+						"play": true
+					},
+					"caption": "and pull up on the sides of the Printer Cover to open.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "77.833",
+						"play": true
+					},
+					"caption": "The Altura Flex terminal screen displays the warning PRINTER DOOR OPENED.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.625",
+						"play": true
+					},
+					"caption": "Next, remove the used paper roll."
+				},
+				{
+
+					"videoControl" : {
+						"time": "85.24",
+						"play": true
+					},
+					"caption": "Detach the piece of tape on the new roll that holds the end of the paper to the roll"
+				},
+				{
+
+					"videoControl" : {
+						"time": "89.86",
+						"play": true
+					},
+					"caption": "then place the new roll into the Printer. It is important that the paper feeds from the bottom toward you."
+				},
+				{
+
+					"videoControl" : {
+						"time": "96.561",
+						"play": true
+					},
+					"caption": "Make sure the paper comes over the roller."
+				},
+				{
+
+					"videoControl" : {
+						"time": "99.703",
+						"play": true
+					},
+					"caption": "Because this is a new roll, leave about 12 to 18 inches hanging out "
+				},
+				{
+
+					"videoControl" : {
+						"time": "104.724",
+						"play": true
+					},
+					"caption": "and close the cover firmly."
+				},
+				{
+
+					"videoControl" : {
+						"time": "106.658",
+						"play": true
+					},
+					"caption": "The Printer automatically advances and cuts the paper.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/accutherm-receipt.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "110.174",
+						"play": true
+					},
+					"caption": "At the bottom of the piece of paper that just dispensed, you should see the words AccuTherm-Ultra and other information. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/accutherm-receipt.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "116.806",
+						"play": true
+					},
+					"caption": "If you do not see this message, the paper is not loaded correctly."
+				},
+				{
+
+					"videoControl" : {
+						"time": "121.04",
+						"play": true
+					},
+					"caption": "Now run the Printer Test to ensure print quality.  ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_services_hand.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services_printertest_hand.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "124.488",
+						"play": true
+					},
+					"caption": "From the Home Screen, touch Services,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_services_hand.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services_printertest_hand.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "127.425",
+						"play": true
+					},
+					"caption": "then Printer Test.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services_printertest_hand.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "129.314",
+						"play": true
+					},
+					"caption": "A receipt displaying every character is printed.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "132.368",
+						"play": true
+					},
+					"caption": "You should run a Printer Test each time you change your paper roll and after clearing a jam."
+				},
+				{
+
+					"videoControl" : {
+						"time": "138.32",
+						"play": true
+					},
+					"caption": "Let me show you something else while we’re here.  ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-green-light.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-amber-light.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "140.594",
+						"play": true
+					},
+					"caption": "The green light on the front of the Printer indicates everything is working correctly.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-green-light.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-amber-light.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "145.476",
+						"play": true
+					},
+					"caption": "If the light were flashing an amber color, you would know there’s an issue, such as a paper jam.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-amber-light.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "150.939",
+						"play": true
+					},
+					"caption": "Should a jam occur in the Printer, open the Printer cover,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "154.814",
+						"play": true
+					},
+					"caption": "pull out the paper past the jam,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "157.088",
+						"play": true
+					},
+					"caption": "close the lid, and the paper re-loads.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "160.357",
+						"play": true
+					},
+					"caption": "If you get a PRINTER OFF-LINE message, make sure all cables are connected properly and reload the paper.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 319,
+                            "top": 146,
+                            "label": "PRINTER OFFLINE",
+                            "blink": "none"	
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "166.213",
+						"play": true
+					},
+					"caption": "Now let’s have you try loading the paper.  "
+				}
+]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

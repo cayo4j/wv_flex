@@ -1,0 +1,83 @@
+{
+    "title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Introduction - Exercise",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Introduction - Exercise",
+			"label": "Multiple Choice: Based on what you've learned so far, what sounds like the most exciting feature of your new lottery equipment?",
+			"options": [
+				{
+					"label": "Terminal",
+					"isCorrect": true
+				},
+				{
+					"label": "Printer",
+					"isCorrect": true
+				},
+				{
+					"label": "Terminal Features and Application",
+					"isCorrect": true
+				},
+				{
+					"label": "Ticket Scan Plus",
+					"isCorrect": true
+				},
+				{
+					"label": "Barcode Scanner",
+					"isCorrect": true
+				},
+				{
+					"label": "Customer Display Unit",
+					"isCorrect": true
+				},
+				{
+					"label": "Digital Jackpot Signage",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Great!",
+					"text": "Click OK to Continue."
+				},
+				"invalid": {
+					"label": "Great!",
+					"text": "Click OK to Continue."
+				}
+			}
+		},
+		{
+			"type": "summary",
+			"name": "Summary"
+		}
+	]
+}

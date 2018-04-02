@@ -1,0 +1,96 @@
+{
+    "title": "Function Buttons – Exercise",
+	"activities": [
+		{
+			"type": "video",
+			"name": " ",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "multipleChoice",
+			"name": " ",
+			"label": "True or False: All reports and financial reports are accessed from the Reports button on the Home Screen.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Correct!",
+					"text": "Click OK to Continue"
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "The correct answer is True.  All of your reports are available from the Reports button on the Home screen."
+				}
+			}
+		},
+		{
+			"type": "multipleChoice",
+			"name": " ",
+			"label": "Multiple Choice: The Online/Instant Functions button replaces (select all that apply):",
+			"options": [
+				{
+					"label": "Services",
+					"isCorrect": false
+				},
+				{
+					"label": "Online Functions",
+					"isCorrect": true
+				},
+				{
+					"label": "Pack Management",
+					"isCorrect": true
+				},
+				{
+					"label": "Diagnostics",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Correct!",
+					"text": "Click OK to Continue"
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "The answer is Online Functions AND Pack Management."
+				}
+			}
+		},
+		{
+			"type": "summary",
+			"name": "Summary"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+<!-- old	#leftArrowHolder{
+			position: absolute;
+			height:150px;
+			width:140px;
+			top: 100px;
+			background:url('lessons/shared/images/rightArrow.jpg')no-repeat 50%;
+			border: 1px solid green;
+			z-index: 200;
+	}
+
+	#rightArrowHolder{
+			position: absolute;
+			height:150px;
+			width:140px;
+			top: 100px;
+			left: 80%;
+			background:url('lessons/shared/images/leftArrow.jpg')no-repeat 50%;
+			border: 1px solid red;
+			z-index: 200;
+	}
+end old -->
+

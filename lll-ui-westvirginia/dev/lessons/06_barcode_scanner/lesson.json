@@ -1,0 +1,173 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "External Barcode Scanner",
+			"video": {
+				"url": "lessons/shared/videos/ExternalBarcodeScanner.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Let's take a closer look at the new External Barcode Scanner."
+				},
+				{
+
+					"videoControl" : {
+						"time": "3.742",
+						"play": true
+					},
+					"caption": "The Scanner sits in a cradle next to the terminal"
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.622",
+						"play": true
+					},
+					"caption": "and can be used while in the cradle"
+				},
+				{
+
+					"videoControl" : {
+						"time": "8.617",
+						"play": true
+					},
+					"caption": "or removed and be used as a handheld device.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/various-barcodes.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "12.419",
+						"play": true
+					},
+					"caption": "This new Scanner can read 1 Dimensional and 2 Dimensional barcodes,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/various-barcodes.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/smartphone-barcode.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "16.888",
+						"play": true
+					},
+					"caption": "which includes barcodes that could be displayed on Smart Phones.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/smartphone-barcode.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/external-scanner.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "20.587",
+						"play": true
+					},
+					"caption": "The Scanner can be used to read both Scratchers barcodes and Draw Game ticket barcodes.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/external-scanner.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "26.336",
+						"play": true
+					},
+					"caption": "Simply hold the barcode 5 to 10 inches in front of the Scanner window and press the trigger. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "32.405",
+						"play": true
+					},
+					"caption": "The Scanner light illuminates and reads the barcode."
+				},
+				{
+
+					"videoControl" : {
+						"time": "35.41",
+						"play": true
+					},
+					"caption": "It's that simple!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "36.25",
+						"play": true
+					},
+					"caption": "Should you pick up the Scanner from the cradle, be sure not to shine it in your eyes or anyone else's. It is a strong light that could cause damage to a person's vision."
+				}
+]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

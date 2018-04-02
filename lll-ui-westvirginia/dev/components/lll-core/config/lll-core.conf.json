@@ -1,0 +1,6 @@
+{
+    "messages": {
+        "lessonConfirmExit": "Are you sure you want to leave the lesson not completed? Some progress may be lost.",
+        "lessonResumeLocation": "Would you like to resume from where you previously left off?"
+    }
+}

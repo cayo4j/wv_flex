@@ -1,0 +1,27 @@
+{
+    "title": "External Hardware - Exercise",
+    "activities": [
+        {
+            "type": "custom",
+            "name": " ",
+            
+			
+			"feedback": {
+				"valid": {
+					"label": "Great work",
+					"text": "identifying all the parts of your new terminal!"
+				},
+				"invalid": {
+					"label": " "
+				}
+			}
+
+        },
+
+        {
+            "type": "summary",
+            "name": "Summary",
+			"isOptional": false
+        }
+    ]
+}

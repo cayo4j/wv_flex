@@ -1,0 +1,484 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Flex Hardware",
+			"video": {
+				"url": "lessons/shared/videos/FlexHardware_WestVirginia_v2.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "This is your Flex terminal and I’m going to show you some of its main parts. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.75",
+						"play": true
+					},
+					"caption": "On the front is the Touch Screen. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.03",
+						"play": true
+					},
+					"caption": "The Touch Screen is the main point of access to all of your terminal functions."
+				},
+				{
+
+					"videoControl" : {
+						"time": "15.53",
+						"play": true
+					},
+					"caption": "You may easily adjust the screen angle by holding the bottom of the Touch Screen and gently tilting the screen up or down to the desired height and angle."
+				},
+				{
+
+					"videoControl" : {
+						"time": "20.26",
+						"play": true
+					},
+					"caption": "Here on the bottom center of  the Touch Screen frame is one of the terminal’s two power buttons. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "26.898",
+						"play": true
+					},
+					"caption": "Located behind the top of the Touch Screen frame is the opening for the Play Slip Reader."
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.97",
+						"play": true
+					},
+					"caption": "Play Slips and Draw Game tickets are fed through here"
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.9",
+						"play": true
+					},
+					"caption": "and then fall into the Stacker at the bottom."
+				},
+				
+				{
+
+					"videoControl" : {
+						"time": "38.28",
+						"play": true
+					},
+					"caption": "Play Slips and Draw Game tickets can be entered either vertically or horizontally with the front play area facing you. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.57",
+						"play": true
+					},
+					"caption": "The Handheld Bar code Scanner sits in a cradle attached to the side of the terminal."
+				},
+				{
+
+					"videoControl" : {
+						"time": "48.62",
+						"play": true
+					},
+					"caption": "The Bar code Scanner is used to quickly read barcodes. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "52.574",
+						"play": true
+					},
+					"caption": "On the back of the terminal there are various plugs and connections,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "56.165",
+						"play": true
+					},
+					"caption": "as well as the terminal’s second power button. The second power button is the On/Off switch you see on the back of the terminal.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.294",
+						"play": true
+					},
+					"caption": "Finally, we have the Flex Printer, which produces draw game tickets, receipts for various transactions, produces promotional coupons, and prints reports.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "73.335",
+						"play": true
+					},
+					"caption": "Although it is a separate piece, the Printer is an essential part of the set-up, as the terminal won’t work unless the two are connected."
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.645",
+						"play": true
+					},
+					"caption": "To maximize your counter space, there is a shelf on the back of your terminal. ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-shelf.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "85.243",
+						"play": true
+					},
+					"caption": "This shelf is used to hold your 22\" Multimedia Monitor. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-shelf.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "89.334",
+						"play": true
+					},
+					"caption": "Ok, let's turn on the terminal. Remember, there are two power buttons you can use.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "95.051",
+						"play": true
+					},
+					"caption": "First is the round button on the front of the terminal.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "97.93",
+						"play": true
+					},
+					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light above the button turns amber.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "104.01",
+						"play": true
+					},
+					"caption": "To power the terminal back on, push it once."
+				},
+				{
+
+					"videoControl" : {
+						"time": "107.62",
+						"play": true
+					},
+					"caption": "The amber light will turn green and the terminal will begin to load.."
+				},
+				{
+
+					"videoControl" : {
+						"time": "111.89",
+						"play": true
+					},
+					"caption": "To turn the power off with the second power button, just reach around and set it to the right which is the OFF position.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "118.853",
+						"play": true
+					},
+					"caption": "To power it back on, set the switch to the left, the ON position. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-off.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-off-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "123.845",
+						"play": true
+					},
+					"caption": "You'll hear the terminal coming to life!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-off.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-off-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "126.682",
+						"play": true
+					},
+					"caption": "Now I’m going to give you a chance to see if you can identify all the parts I just showed you!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+]
+},
+		{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}
+
+		

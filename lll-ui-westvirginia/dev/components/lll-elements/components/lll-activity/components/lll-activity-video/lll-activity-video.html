@@ -1,0 +1,27 @@
+<div class="lll-activity lll-activity-video" ng-form="form" videogular vg-theme="default" vg-player-ready="ctrl.on.playerReady($API)" vg-update-time="ctrl.on.updateTime($currentTime)" vg-complete="ctrl.on.complete()">
+    <label class="lll-activity-label">{{::ctrl.activityTitle}}</label>
+    <div class="cuepoint" ng-class="{'revealed': ctrl.current.cuepointModel.isRevealed}" ng-if="ctrl.current.cuepointModel">
+        <div class="cuepoint-workspace">
+            <div class="cuepoint-video">
+                <vg-media vg-src="ctrl.options.sources"></vg-media>
+            </div>
+           <div class="imported-html" ng-if="ctrl.current.cuepointModel.html.url" ng-include="ctrl.current.cuepointModel.html.url"></div>
+            <div class="cuepoint-overlay" ng-class="{'correct': cuepointOverlayModel.isCorrect}" ng-repeat="cuepointOverlayModel in ctrl.current.cuepointModel.overlays"
+                ng-init="cuepointOverlayIndex = $index; blinkClass = cuepointOverlayModel.blinkClass" ng-style="{'left': cuepointOverlayModel.left + 'px', 'top': cuepointOverlayModel.top + 'px'}"id="{{cuepointOverlayModel.id}}">
+                <span class="cuepoint-overlay-label" ng-class="blinkClass" ng-bind-html="cuepointOverlayModel.label" ng-if="cuepointOverlayModel.label"></span>
+                <img class="cuepoint-overlay-image" ng-click="ctrl.clickCurrentCuepointOverlay($event, cuepointOverlayIndex)" ng-class="ctrl.current.cuepointModel.isRevealed ? blinkClass : ''"
+                    ng-style="{'width': cuepointOverlayModel.image.width + 'px', 'height': cuepointOverlayModel.image.height + 'px'}"
+                    ng-src="{{cuepointOverlayModel.image.url}}" ng-if="cuepointOverlayModel.image.url" />
+            </div>
+        </div>
+        <div class="cuepoint-footer">
+            <vg-controls class="cuepoint-control">
+                <vg-play-pause-button></vg-play-pause-button>
+                <div class="cuepoint-control-item">
+                    <button class="iconButton" ng-click="ctrl.resetLesson()"><i class="fa fa-fast-backward"></i></button>
+                </div>
+            </vg-controls>
+            <span class="cuepoint-caption">{{ctrl.current.cuepointModel.caption}}</span>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+@courseWindowWidth: 800px;
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-image: url("../lessons/shared/images/white_carbon.png");/*SC 04042016*/
+}
+
+.lesson-ui {
+  width: 100%;
+  min-width:800px;
+  margin: auto;
+  transform: scale(1);
+}
+/*
+.lll-activity .cuepoint-workspace {
+  height: 450px;SC 04042016
+}
+*/
+
+.lll-activity-gui-simulation {
+	 width: 100%; 
+	/* margin: 0 auto; */
+	
+	/*border-bottom: 50px solid @cuepointCaptionBackgroundColor;*/
+}
+
+
+
+
+
+    #custom-activity-1_playground {
+        width: 100%;
+        height: 450px;
+        border: 4px solid @cuepointCaptionBackgroundColor;
+        position: relative;
+    }
+	
+	#custom-activity-1_leftbutton {
+		position: absolute;
+		height:150px;
+		width:140px;
+		top: 100px;
+		left: 10%;
+		background:url('../lessons/shared/images/leftArrow.png')no-repeat 50%;
+		overflow:hidden;
+		z-index: 200;
+	}
+	
+	#custom-activity-1_rightbutton {
+		position: absolute;
+		height:150px;
+		width:140px;
+		top: 100px;
+		left: 80%;
+		background:url('../lessons/shared/images/arrow.png')no-repeat 50%;
+		overflow:hidden;
+		z-index: 200;
+	}

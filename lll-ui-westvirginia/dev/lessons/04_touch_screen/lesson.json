@@ -1,0 +1,251 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Touch Screen",
+			"video": {
+				"url": "lessons/shared/videos/Touchscreen.mp4"
+			},
+
+				"cuepoints": [
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-homescreen_lowres.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+					"videoControl" : {
+						"time": "0.5",
+						"play": true
+					},
+					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "3.721",
+						"play": true
+					},
+					"caption": "The Altura Flex Touch Screen is a 15.6\" high-resolution display and even though your new terminal has a smaller footprint, the screen is larger! ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "13.915",
+						"play": true
+					},
+					"caption": "The screen is also adjustable and may be positioned up"
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "17.42",
+						"play": true
+					},
+					"caption": "or down to the desired height."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.64",
+						"play": true
+					},
+					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "26.324",
+						"play": true
+					},
+					"caption": "Do not use objects such as pens, pencils or long fingernails.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.172",
+						"play": true
+					},
+					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.  ",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/wiping-screen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "36.543",
+						"play": true
+					},
+					"caption": "Cleaning the Touch Screen is the same, use non-ammonia cleaning solution on a soft-lint-free cloth and gently wipe the screen. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/wiping-screen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 200,
+                            "top": 100,
+                            "label": "Clean with Non-Ammonia Cleaning Solution on a Soft, Lint-Free Cloth",
+                            "blink": "none"
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.243",
+						"play": true
+					},
+					"caption": "Never spray solution directly onto the screen.",
+					"overlays":[
+						{
+                            "left": 450,
+                            "top": 120,
+                            "label": "Never Spray Cleaning Solution Directly Onto the Screen!",
+                            "blink": "none"
+						},
+{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/lockHighlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}						
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": "And, same as always, remember to Lock your Touch Screen before cleaning to avoid placing wagers by accident.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/lockHighlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

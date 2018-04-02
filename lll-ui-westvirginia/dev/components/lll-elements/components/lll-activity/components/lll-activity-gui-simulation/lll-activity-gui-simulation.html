@@ -1,0 +1,15 @@
+<div class="lll-activity lll-activity-gui-simulation" ng-form="form">
+    <label class="cuepoint-label">{{ctrl.activityTitle}}</label>
+    <div class="cuepoint" ng-class="{'revealed': ctrl.current.cuepointModel.isRevealed}" ng-if="ctrl.current.cuepointModel" ng-click="ctrl.clickCurrentCuepointOverlay($event, null)">
+        <div class="cuepoint-workspace">
+            <div class="imported-html" ng-if="ctrl.current.cuepointModel.html.url" ng-include="ctrl.current.cuepointModel.html.url"></div>
+            <div class="cuepoint-overlay"  ng-class="{'correct': cuepointOverlayModel.isCorrect}" ng-repeat="cuepointOverlayModel in ctrl.current.cuepointModel.overlays"
+                ng-init="cuepointOverlayIndex = $index; blinkClass = cuepointOverlayModel.blinkClass" ng-style="{'left': cuepointOverlayModel.left + 'px', 'top': cuepointOverlayModel.top + 'px'}" id="{{cuepointOverlayModel.id}}" >
+                <span class="cuepoint-overlay-label" ng-class="blinkClass" ng-bind-html="cuepointOverlayModel.label" ng-if="cuepointOverlayModel.label"></span>
+                <img class="cuepoint-overlay-image"  ng-click="ctrl.clickCurrentCuepointOverlay($event, cuepointOverlayIndex)" ng-class="ctrl.current.cuepointModel.isRevealed ? blinkClass : ''"
+                    ng-style="{'width': cuepointOverlayModel.image.width + 'px', 'height': cuepointOverlayModel.image.height + 'px'}"
+                    ng-src="{{cuepointOverlayModel.image.url}}" ng-if="cuepointOverlayModel.image.url" />
+            </div>
+        </div>
+    </div>
+</div>

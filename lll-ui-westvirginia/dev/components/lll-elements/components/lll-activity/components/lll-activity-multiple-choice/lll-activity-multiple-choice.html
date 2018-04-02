@@ -1,0 +1,18 @@
+<div class="lll-activity lll-quiz-activity" ng-form="form">
+    <label class="lll-activity-label">{{::ctrl.activityTitle}}</label>
+    <div class="lll-activity-multiple-choice">
+        <div class="cuepoint-workspace container">
+            <p class="lll-activity-description">{{ctrl.activityModel.label}}</p>
+            <ul class="lll-activity-options row">
+                <li class="lll-activity-option col-md-6" ng-repeat="optionModel in ctrl.activityModel.options track by $index">
+                    <input type="checkbox" id="option{{$index}}" name="option{{$index}}" ng-model="optionModel.isSelected" ng-value="true" />
+                    <label for="option{{$index}}">{{optionModel.label}}</label>
+                    <div class="check"></div>
+                </li>
+            </ul>
+            <div class="lll-activity-submit" ng-if="!ctrl.activityModel.isSubmitted">
+                <button type="button" class="btn btn-primary" ng-click="ctrl.submitForm(form, ctrl.activityModel)">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>

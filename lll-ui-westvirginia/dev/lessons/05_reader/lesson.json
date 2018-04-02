@@ -1,0 +1,219 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Play Slip Reader",
+			"video": {
+				"url": "lessons/shared/videos/PlaySlipReader.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Now let's look at the Play Slip Reader."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "2.407",
+						"play": true
+					},
+					"caption": "The Play Slip Reader is located on the top of the Touch Screen",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "5.35",
+						"play": true
+					},
+					"caption": "and is used to quickly produce wagers using Play Slips and validate Draw Game tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.305",
+						"play": true
+					},
+					"caption": "Simply insert the Play Slip or Draw Game ticket with the completed side facing you",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "16.335",
+						"play": true
+					},
+					"caption": "into the Play Slip Reader either horizontally or vertically.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "20.364",
+						"play": true
+					},
+					"caption": "Scratchers should NEVER be placed in the Play Slip Reader!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "23.91",
+						"play": true
+					},
+					"caption": "If a Play Slip or Draw Game ticket becomes jammed in the Play Slip Reader, the steps to clear the jam are easy!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "30.079",
+						"play": true
+					},
+					"caption": "Right here on top of the Touch Screen is a silver Release Button that allows the Touch Screen to open like a door."
+				},
+				{
+
+					"videoControl" : {
+						"time": "36.002",
+						"play": true
+					},
+					"caption": "If I press this button and pull the Touch Screen forward, I see a second door. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.64",
+						"play": true
+					},
+					"caption": "This door has a green button that looks like a down arrow. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.321",
+						"play": true
+					},
+					"caption": "I open this second door the same way"
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.117",
+						"play": true
+					},
+					"caption": "and gently clear away the jammed paper."
+				},
+				{
+
+					"videoControl" : {
+						"time": "48.566",
+						"play": true
+					},
+					"caption": "Remember, Scratchers should never come into contact with this area of the terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 581,
+                            "top": 37,
+                            "label": "Scratchers should NEVER be placed in the Play Slip Reader!",
+                            "blink": "none"							
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.572",
+						"play": true
+					},
+					"caption": "OK, let’s close this up so you can give it a try."
+
+				}
+]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

@@ -1,0 +1,29 @@
+
+<div class="lll-activity-summary">
+ 
+<!--	<h2>{{::ctrl.activityTitle}}</h2>
+	<div>
+		<p><strong>Points:</strong> {{ctrl.lessonSummary.pointsScored}} / {{ctrl.lessonSummary.pointsAvailable}}</p>
+	</div>
+	<div ng-if="ctrl.lessonSummary.activities.length">
+		<p><strong>Activities ({{ctrl.lessonSummary.activities.length}}):</strong></p>
+		<ul>
+			<li ng-repeat="activitySummary in ctrl.lessonSummary.activities">
+				<p>{{activitySummary.name}}</p>
+				<p ng-if="activitySummary.pointsAvailable">Score: {{activitySummary.pointsScored}} / {{activitySummary.pointsAvailable}}</p>
+				<p ng-if="activitySummary.isRevealable">Revealed cuepoints: {{activitySummary.revealedCount}}, timeout: {{activitySummary.timeoutReachedCount}}</p>
+			</li>
+		</ul>-->
+		
+<br/><br/><br/>
+<div ng-if="ctrl.lessonModel.passThreshold.pointsRatio!=NaN">
+	<H2>  FINAL ASSESSMENT SCORE: {{ctrl.lessonModel.pointsScored/ctrl.lessonModel.pointsAvailable *100}}%</H2>
+	<H3 ng-if="ctrl.lessonModel.isPassed">  Congratulations! You have passed the assessment. </H3>
+	<H3 ng-if="!ctrl.lessonModel.isPassed">  You must score a 70% or higher to pass this assessment.  Please try again.</H3>
+	
+</div>
+<p style="text-align:center;">Click  <button type="button" class="btn btn-default btn-sm" ng-click="ctrl.nextSco()">Continue</button>  to proceed. </p>	
+	
+	
+	
+</div>

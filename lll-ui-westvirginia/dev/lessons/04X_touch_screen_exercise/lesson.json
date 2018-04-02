@@ -1,0 +1,28 @@
+{
+    "title": "Touch Screen - Exercise",
+    "activities": [
+        {
+            "type": "custom",
+            "name": " ",
+            
+			
+			"feedback": {
+				"valid": {
+					"label": "Success",
+					"text": "Click OK to Continue"
+				},
+				"invalid": {
+					"label": "Nicely done!",
+					"text": "You identified all of the items that are NOT safe to use with the Touch Screen."
+				}
+			}
+
+        },
+
+        {
+            "type": "summary",
+            "name": "Summary",
+			"isOptional": true
+        }
+    ]
+}

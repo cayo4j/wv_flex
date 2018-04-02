@@ -1,0 +1,236 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Introduction",
+			"video": {
+				"url": "lessons/shared/videos/Introduction_WestVirginia.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Welcome to the West Virginia Lottery Learning Link web-based retailer training for your new Flex Terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 565,
+                            "top": 50,
+                            "label": "Lottery Learning Link",
+                            "blink": "none"	
+							}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "6.16",
+						"play": true
+					},
+					"caption": "In this training series, we'll introduce you to the Flex terminal and your new terminal application.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "13.2",
+						"play": true
+					},
+					"caption": "You'll see that your new terminal has many features that makes selling lottery easy",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-only.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "18.91",
+						"play": true
+					},
+					"caption": "and your modern and intuitive terminal application requires fewer menu selections for your most used functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "25.61",
+						"play": true
+					},
+					"caption": "It's so easy to use, you'll be comfortable with it in no time!"
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "29.06",
+						"play": true
+					},
+					"caption": "Your terminal will be accompanied by several new peripherals like the Ticket Scan Plus, Flex Printer, a Customer Display Unit, and digital jackpot signage at qualifying retailers.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/learner-center.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.358",
+						"play": true
+					},
+					"caption": "Once you complete this course and brief assessment, return to the Learner Center and click on Transcript to view and print your certificate.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/learner-center.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/learner-center-transcriptCO.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "47.357",
+						"play": true
+					},
+					"caption": "The modules in this course include lessons with interactive and text-based exercises. "
+					
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.73",
+						"play": true
+					},
+					"caption": "Did you hear that?"
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.4",
+						"play": true
+					},
+					"caption": "That sound means there is a question or task waiting for you."
+				},
+				{
+
+					"videoControl" : {
+						"time": "58.95",
+						"play": true
+					},
+					"caption": "Here's your first question now!"
+				}
+]
+},
+				    {
+					   	"type": "summary",
+					   	"name": "Summary",
+					   	"isOptional": true
+					}
+]
+}

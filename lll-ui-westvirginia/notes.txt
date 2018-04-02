@@ -1,0 +1,49 @@
+
+    <resource identifier="introduction_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/Course1_Intro">
+      <file href="lessons/Course1_Intro/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="p3p4_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/Course1_Pick3Pick4">
+      <file href="lessons/Course1_Pick3Pick4/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/Course1_Assessment">
+      <file href="lessons/Course1_Assessment/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+</resources>
+
+
+http://stackoverflow.com/questions/28620479/using-es6-classes-as-angular-1-x-directives
+https://www.npmjs.com/package/babel-angular
+
+-- Frame work manifest template contained the wrong info for SCO href *fixed*
+-- Manifest contained a the wrong id for the second objective, which gets user stuck on first SCO *fixed*
+-- Course was not navigating to the next Sco once it finished on a activity summary page, I added a "continue" button to navigate to next sco on button click
+-- Modern current browsers have dropped support for the "onbeforeunload" event, which drove some functionality. 
+
+
+ ../dev/jspm_packages/npm/jquery@2.2.1/dist/jquery.js
+ 
+
+http://localhost/GIT/lll-ui/dist/index.html#/lesson/Course1_Intro 
+ 
+•       We need to determine a strategy for graphics when Andy returns from vacation
+•       LILEE for HTML5
+•       Logic for removing the Confirm navigation message
+
+•       Resume Functionality
+
+
+
+•       Can you strop the course from completing?
+
+•       Make responsive
+
+•       Post Condition Rule
+
+•       Assessment Summary page needs work to be less confusing
+
+
+
+

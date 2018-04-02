@@ -1,0 +1,24 @@
+@external-asset-path: '../external';
+
+/* videogular font inports moved here to keep the same path bor DEV and DIST */
+@font-face {
+    font-family: 'videogular';
+    src: url('../external/videogular.eot');
+    src: url('../external/videogular.eot?#iefix') format('embedded-opentype'),
+    url('../external/videogular.woff') format('woff'),
+    url('../external/videogular.ttf') format('truetype'),
+    url('../external/fonts/videogular.svg#videogular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import '@{external-asset-path}/bootstrap.min.css';
+@import '@{external-asset-path}/sweetalert.css';
+@import '@{external-asset-path}/font-awesome.min.css';
+@import './elements/videogular';
+@import './elements/home';
+@import './elements/type';
+@import './elements/lesson';
+@import './elements/activity';
+@import './elements/quiz-activity';
+@import './custom-activities/demo-custom-1';

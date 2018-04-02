@@ -1,0 +1,438 @@
+{
+    "title": " ",
+	"activities": [
+		{
+			"type": "guiSimulation",
+			"name": "Printer - Exercise",
+			"label": "Now change the roll stock.  It's easy! First click the button to open the Printer.",
+			
+			"cuepoints": [
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ex_printer1.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 542,
+							"top": 236,
+							"image": {
+								"url": "lessons/shared/images/btn_open_printer.png",
+								"width": 44,
+								"height": 34
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Now change the roll stock.  It's easy! First click the button to open the Printer.",
+                            "blink": "none"
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ex_printer2.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},
+				{
+					"overlays": [
+						
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ex_printer2.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 517,
+							"top": 226,
+							"image": {
+								"url": "lessons/shared/images/paper_tube_highlight.png",
+								"width": 68,
+								"height": 41
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Click the old paper roll to move it to the trash can.",
+                            "blink": "none"
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ex_printer_empty_tube.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ex_printer_empty_tube.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 118,
+							"top": 224,
+							"image": {
+								"url": "lessons/shared/images/trash_highlight.png",
+								"width": 178,
+								"height": 175
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Now touch the trash bin to clear the area for the next step.",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},			
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_rolls.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 144,
+							"top": 103,
+							"image": {
+								"url": "lessons/shared/images/roll_highlight.png",
+								"width": 256,
+								"height": 303
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Select the paper roll which shows the correct way to load into the printer.",
+                            "blink": "none"
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded_quiz.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded_quiz.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 106,
+							"top": 327,
+							"image": {
+								"url": "lessons/shared/images/printer_option_1.png",
+								"width": 242,
+								"height": 42
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "This is a new roll.  How much paper should be left hanging<br>out of the Printer?"
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 397,
+							"top": 19,
+							"image": {
+								"url": "lessons/shared/images/printer_cover.png",
+								"width": 194,
+								"height": 240
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Now click the cover to close the Printer."
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded_closed.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_loaded_closed.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 196,
+							"top": 308,
+							"image": {
+								"url": "lessons/shared/images/ok_btn.png",
+								"width": 100,
+								"height": 25
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "Almost done.  Run your Printer Test."
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 7,
+							"top": 99,
+							"image": {
+								"url": "lessons/shared/images/btn_services_printer_ex.png",
+								"width": 116,
+								"height": 29
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 14,
+                            "top": 400,
+                            "label": "Almost done.  Run your Printer Test."
+                        },
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 416,
+							"top": 127,
+							"image": {
+								"url": "lessons/shared/images/btn_printer_test.png",
+								"width": 181,
+								"height": 30
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 14,
+                            "top": 400,
+                            "label": "Almost done.  Run your Printer Test."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				}				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				]
+				
+		},
+		
+		{
+			"type": "summary",
+			"name": "Summary"
+		}
+	
+	]
+}

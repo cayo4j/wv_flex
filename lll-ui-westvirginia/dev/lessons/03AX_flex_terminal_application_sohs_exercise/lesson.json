@@ -1,0 +1,261 @@
+{
+    "title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Sign On and Home Screen - Exercise",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Sign On and Home Screen - Exercise",
+			"label": "True or False: The procedure for Signing On to the new terminal will be different.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": false
+				},
+				{
+					"label": "False",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Correct!",
+					"text": "Click OK to Continue."
+				},
+				"invalid": {
+					"label": " Sorry, ",
+					"text": "The correct answer is False. The Sign On procedure for your new terminal is exactly the same!"
+				}
+			}
+		},
+		{
+			"type": "guiSimulation",
+			"name": "Sign On and Home Screen - Exercise",
+			"label": "Find the Help Button.",
+			
+			"cuepoints": [
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 62,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/helpButton.png",
+								"width": 32,
+								"height": 32
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 552,
+                            "top": 155,
+                            "label": "Now, identify the various parts of the Home Screen we just reviewed. Find the Help Button."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 125,
+							"top": 2,
+							"image": {
+								"url": "lessons/shared/images/status-bar.png",
+								"width": 522,
+								"height": 28
+							},
+							"blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 552,
+                            "top": 155,
+                            "label": "Find the Status Bar."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 125,
+							"top": 32,
+							"image": {
+								"url": "lessons/shared/images/breadcrumbs.png",
+								"width": 476,
+								"height": 31
+							},
+							"blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 552,
+                            "top": 155,
+                            "label": "Find the Breadcrumbs."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},					
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 763,
+							"top": 3,
+							"image": {
+								"url": "lessons/shared/images/mail-icon.png",
+								"width": 30,
+								"height": 28
+							},
+							"blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 552,
+                            "top": 155,
+                            "label": "Find the Mail icon."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},				
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 5,
+							"top": 1,
+							"image": {
+								"url": "lessons/shared/images/sign-out.png",
+								"width": 59,
+								"height": 32
+							},
+							"blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 552,
+                            "top": 155,
+                            "label": "Find the Sign Out button."
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				}				
+				
+				
+				]
+				
+		},
+		
+		{
+			"type": "summary",
+			"name": "Summary"
+		}
+	
+	]
+}

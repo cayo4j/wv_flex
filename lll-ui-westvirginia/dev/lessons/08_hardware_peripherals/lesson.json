@@ -1,0 +1,331 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Hardware Peripherals",
+			"video": {
+				"url": "lessons/shared/videos/HardwarePeripherals.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "I want to talk briefly about some of the peripheral hardware you will have in your store.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "4",
+						"play": true
+					},
+					"caption": "Near your terminal most likely you’ll have a Multimedia Monitor connected to it.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 649,
+                            "top": 14,
+                            "label": "Multimedia Monitor",
+                            "blink": "none"						
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "9.227",
+						"play": true
+					},
+					"caption": "This 22\" monitor replaces the VFD for displaying player transaction information for player security when purchasing and cashing tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "17.412",
+						"play": true
+					},
+					"caption": "In addition, this monitor displays advertising, winner awareness and messaging",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "22.828",
+						"play": true
+					},
+					"caption": "and it is clearly visible to players up to 15 feet away.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-power-button.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "26.458",
+						"play": true
+					},
+					"caption": "Ensure the Multimedia Monitor power is ON so it is always displaying information to your players.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/esmm-power-button.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/coach-anthony-centered.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}						
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "32.018",
+						"play": true
+					},
+					"caption": "It can help you increase lottery sales at your store!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/coach-anthony-centered.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}						
+					]
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.858",
+						"play": true
+					},
+					"caption": "Let’s talk about another piece of lottery hardware you may have connected to your terminal, the Ticket Scan Plus, or TSP.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "42.303",
+						"play": true
+					},
+					"caption": "The TSP is the next generation of self-service designed for players to check their Draw Game and Scratcher tickets for winning status without interrupting your store routine.",
+					"overlays": [
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "51.256",
+						"play": true
+					},
+					"caption": "The built-in red beam shows the player where to place the ticket.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.113",
+						"play": true
+					},
+					"caption": "Players simply hold the ticket barcode under the red beam, watch for the confirmation code to indicate the ticket has been successfully read, and watch for the results on the display.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/retailer-handing-cash.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "64.26",
+						"play": true
+					},
+					"caption": "If a ticket is a winner, the player presents it to you for validation.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/retailer-handing-cash.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "68.608",
+						"play": true
+					},
+					"caption": "Ready to move on? Let's go."
+				}
+]
+},
+				{
+
+					"type": "summary",
+					"name": "Summary",
+
+					"isOptional": true
+
+				}
+]
+}

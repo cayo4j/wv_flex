@@ -1,0 +1,329 @@
+{
+    "title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Assessment",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]
+		},
+		
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Multiple Choice: Where are the two power buttons for the terminal? Click all that apply. ",
+			"options": [
+				{
+					"label": "On the side of the terminal",
+					"isCorrect": false
+				},
+				{
+					"label": "On the back of the terminal",
+					"isCorrect": true
+				},
+				{
+					"label": "On the upper right corner of the touch screen frame",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well Done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text" : "The correct answer is: On the back of the terminal, and on the bottom of the touch screen frame."
+				}
+			},
+			"pointsAvailable": 0.5
+			
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Multiple Choice: What is the name of the device where Draw Game tickets and Play Slips are fed through to validate a ticket or place a wager? ",
+			"options": [
+				{
+					"label": "Stacker",
+					"isCorrect": false
+				},
+				{
+					"label": "Reader",
+					"isCorrect": true
+				},
+				{
+					"label": "Barcode Scanner",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: Play Slip Reader."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "True or False: Scratch off tickets should NOT be placed in the reader. ",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": false
+				},
+				{
+					"label": "False",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: False."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "True or False: The terminal will NOT function if it is not connected properly to the printer. ",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: True."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Multiple Choice: Which of these are NOT recommended for use with the Touch Screen? Click all that apply. ",
+			"options": [
+				{
+					"label": "Fingertips",
+					"isCorrect": false
+				},
+				{
+					"label": "Knuckles",
+					"isCorrect": false
+				},
+				{
+					"label": "Fingernails",
+					"isCorrect": true
+				},
+				{
+					"label": "Tips of pens/pencils",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: Fingernails and the tips of pens/pencils."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Fill-in the blank: When the terminal is powered on, the light on the touch screen frame will glow _____.",
+			"options": [
+				{
+					"label": "Green",
+					"isCorrect": true
+				},
+				{
+					"label": "Amber (orange-like)",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: Green."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Multiple Choice: The 22\" Multimedia Monitor (Select All That Apply):",
+			"options": [
+				{
+					"label": "Replaces the VFD display",
+					"isCorrect": true
+				},
+				{
+					"label": "Player Transaction Information",
+					"isCorrect": true
+				},
+				{
+					"label": "Smart Shows for Advertising, Winner Awareness and Messaging",
+					"isCorrect": true
+				},
+				{
+					"label": "Should be Placed on the Altura Flex Terminal Shelf on the Back of the Terminal",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: All are true."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "True or False: All Reports are accessed from the Reports button on the Home Screen.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: True."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "True or False: Validation rules for Scratcher tickets and Draw Game tickets have changed with the new terminal.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": false
+				},
+				{
+					"label": "False",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: False."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "True or False: The external Barcode Scanner is only used to scan Draw Game Tickets.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": false
+				},
+				{
+					"label": "False",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: False."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "summary",
+			"name": "Summary",
+
+			"isOptional": false
+		}
+	],
+
+	
+    "pointsRatio": 0.7
+}

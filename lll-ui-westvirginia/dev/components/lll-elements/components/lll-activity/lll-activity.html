@@ -1,0 +1,42 @@
+<lll-activity-single-choice
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isSingleChoice()"
+></lll-activity-single-choice>
+<lll-activity-multiple-choice
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isMultipleChoice()"
+></lll-activity-multiple-choice>
+<lll-activity-gui-simulation
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isGuiSimulation()"
+></lll-activity-gui-simulation>
+<lll-activity-video
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isVideo()"
+></lll-activity-video>
+<lll-activity-video-guide
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isVideoGuide()"
+></lll-activity-video-guide>
+<lll-activity-summary
+    lesson-model="ctrl.lessonModel"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isSummary()"
+></lll-activity-summary>
+<lll-activity-custom
+    lesson-title="ctrl.lessonModel.title"
+    activity-model="ctrl.activityModel"
+    on-submit-activity="ctrl.on.submitActivity(activityModel)"
+    ng-if="ctrl.isCustom()"
+></lll-activity-custom>

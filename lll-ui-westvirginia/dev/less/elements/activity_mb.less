@@ -1,0 +1,169 @@
+@activeWorkspaceHeight: 450px;
+@activityBackgroundColor: white;
+@frameBackgroundColor: #446cb3;
+@cuepointOverlayTextColor: #006;
+@cuepointOverlayBorderColor: #008;
+@primaryTextColor: white;
+
+.lll-activity {
+    .cuepoint-workspace,
+    .cuepoint-footer {
+        position: relative;
+		
+    } 
+    
+    .cuepoint-guide {
+        /* float: left;
+       border-bottom: dashed @frameBackgroundColor 1px;*/
+    }
+    
+    .cuepoint-workspace {
+		 width: 100%;
+		min-height:450px;
+		height:450px;
+		border: solid #446cb3 1px;
+		margin: 0;
+		vertical-align: middle;
+		text-align: center;
+		background-color: white;
+    }
+    .lll-activity-description {
+        padding: 10px 0;
+        font-size: 18px;
+    }
+    .lll-activity-options {
+        width: 100%;
+        vertical-align: middle;
+        text-align: left;
+        padding: 3em;
+        overflow: hidden;
+    }
+    div.controls-container {
+        background-color: #4183d7;
+    }
+    .imported-html {
+        display: block;
+        position: absolute;
+        text-align: left;
+        background-color: @activityBackgroundColor;
+        width: 100%;
+        height: 100%;
+    }
+    .cuepoint-video {
+        width: 100%;
+		min-width:800px;
+		min-height:450px;
+		height:100%;
+		width:100%;
+    }
+    .cuepoint-video,
+    .cuepoint-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .cuepoint-overlay,
+    .cuepoint-overlay-label,
+    .cuepoint-overlay-image {
+        display: block;
+              
+        &.blink-once {
+            animation: blinker .5s linear 1 .5s;
+        }
+        &.blink-twice {
+            animation: blinker .5s linear 2 .5s;
+        }
+        &.blink-triple {
+            animation: blinker .5s linear 3 .5s;
+        }
+        @keyframes blinker {  
+            50% { opacity: 0.0; }
+        }
+    }
+    .cuepoint-overlay-label {
+        padding: 10px 20px;
+        font-size: 18px;
+        background-color: lightgoldenrodyellow;
+        border: solid 2px @cuepointOverlayBorderColor;
+        color: @cuepointOverlayTextColor;
+        border-radius: 10px;
+    }
+    .cuepoint.revealed {
+        .cuepoint-video {
+            opacity: 0;
+        }
+        .cuepoint-overlay {
+            opacity: .75;
+        }
+        .cuepoint-overlay.correct {
+            outline: 3px solid red;
+            opacity: 1;
+        }
+    }
+    .lll-activity-label,
+    .cuepoint-caption,
+    .cuepoint-label {
+        display: block;
+        min-height: 20px;
+        padding: 10px 20px;
+        background-color: @frameBackgroundColor;
+        color: @primaryTextColor;
+    }
+    .lll-activity-label,
+    .cuepoint-label {
+        font-size: 32px;
+        font-weight: 300;
+        letter-spacing: .7px;
+        margin-bottom: 0;
+    }
+    .cuepoint-control {
+        position: static;
+    }
+    .cuepoint-caption {
+        font-size: 16px;
+		min-height:60px;
+    }
+    .cuepoint-control-item {
+        display: table-cell;
+        width: 50px;
+        vertical-align: middle;
+        text-align: center;
+        cursor: pointer;
+    }
+}
+
+.lll-quiz-activity {
+    padding: 15px;
+}
+
+.lll-activity-video-guide {
+    .cuepoint-workspace {
+        margin: 0 0 0 0px;
+    }
+    // .cuepoint-video,
+    .cuepoint-image {
+        position: static;
+    }
+}
+
+// videogular overrides
+videogular vg-play-pause-button,
+[videogular] vg-play-pause-button {
+    width: 50%;
+}
+
+videogular .iconButton,
+[videogular] .iconButton {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 24px;
+    &:before {
+        font-family: 'videogular';
+    }
+}
+
+videogular vg-controls,
+[videogular] vg-controls,
+videogular vg-controls .controls-container,
+[videogular] vg-controls .controls-container {
+    height: 40px;
+}

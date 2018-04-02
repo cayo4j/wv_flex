@@ -1,0 +1,258 @@
+@activeWorkspaceHeight: 450px;
+@activityBackgroundColor: white;
+@frameBackgroundColor: #009bde;
+@cuepointCaptionBackgroundColor: #004A97;
+@cuepointCaptionTextColor: #ffffff;
+@cuepointOverlayTextColor: #000;
+@cuepointOverlayBorderColor: #008;
+@primaryTextColor: dark gray;
+@cuepointTextColor: white;
+@buttonz: #8FC7E8;
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here */
+	/*SC 10172016*/
+	.iconButton {
+		position:absolute;
+		background-image: url("../lessons/shared/images/html5-button.png") !important;
+		border:hidden !important;
+		top:6px;
+		left: 52%;
+		height:28px;
+		width:50px !important;
+	}
+}
+
+.lll-activity {
+    .cuepoint-workspace,
+    .cuepoint-footer {
+        position: relative;
+    } 
+    
+    .cuepoint-guide {
+        float: left;
+        /*border-bottom: dashed @frameBackgroundColor 1px;*/
+    }
+    
+    .cuepoint-workspace {
+        width: 100%;
+        height: @activeWorkspaceHeight;
+        /*border: solid @frameBackgroundColor 1px;*/
+        margin: 0;
+        vertical-align: middle;
+        text-align: center;
+		/*sidebars*/
+        background-color: white;
+    }
+	
+
+    .lll-activity-description {
+        padding: 10px 0;
+        font-size: 18px;
+    }
+    .lll-activity-options {
+        width: 100%;
+        vertical-align: middle;
+        text-align: left;
+        padding: 3em;
+        overflow: hidden;
+    }
+    div.controls-container {
+		height:35px !important;
+
+    }
+    .imported-html {
+        display: block;
+        position: absolute;
+        text-align: left;
+        background-color: @activityBackgroundColor;
+        width: 100%;
+        height: 100%;
+    }
+    .cuepoint-video {
+        width: 100%;
+		min-width:800px;
+		min-height:450px;
+		height:100%;
+    }
+    .cuepoint-video,
+    .cuepoint-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .cuepoint-overlay,
+    .cuepoint-overlay-label,
+    .cuepoint-overlay-image {
+        display: block;
+              
+        &.blink-once {
+            animation: blinker .5s linear 1 .5s;
+        }
+        &.blink-twice {
+            animation: blinker .5s linear 2 .5s;
+        }
+        &.blink-triple {
+            animation: blinker .5s linear 3 .5s;
+        }
+        @keyframes blinker {  
+            50% { opacity: 0.0; }
+        }
+    }
+    .cuepoint-overlay-label {
+        padding: 10px 20px;
+        font-size: 14px;
+        background-color: #E5F1F9;
+        border: solid 2px #004A97;
+        color: @cuepointOverlayTextColor;
+        border-radius: 3px;
+    }
+    .cuepoint.revealed {
+        .cuepoint-video {
+            opacity: 0;
+        }
+        .cuepoint-overlay {
+            opacity: .75;
+        }
+        .cuepoint-overlay.correct {
+            outline: 3px solid red;
+            opacity: 1;
+        }
+    }
+    .lll-activity-label,
+    .cuepoint-caption,
+    .cuepoint-label {
+        display: block;
+        min-height: 20px;
+		height:55px;
+        padding: 10px 20px;
+        background-color: @cuepointCaptionBackgroundColor;		
+        color: @cuepointCaptionTextColor;
+    }
+	/*HEADER*/
+    .lll-activity-label,
+    .cuepoint-label {
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: .6px;
+        margin-bottom: 0;
+		height:65px;
+		
+		padding-top:20px;
+		padding-bottom: 0px;
+		background-image: url("../lessons/shared/images/lll-html5-chrome.png");/*SC 10172016*/
+		color: #014A99;
+    }
+    .cuepoint-control {
+        position: static;
+		
+    }
+    .cuepoint-caption {
+        font-size: 14px;
+    }
+    .cuepoint-control-item {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        cursor: pointer;
+		
+    }
+	/*SC 10172016*/
+	.iconButton.play {
+		position: absolute;
+		background-image: url("../lessons/shared/images/html5-button.png");
+		border:hidden;
+		left: 46%;
+		top:6px;
+		height: 28px;
+		width: 50px;
+	}
+	/*SC 10172016*/
+	.iconButton.pause {
+		position: absolute;
+		background-image: url("../lessons/shared/images/html5-button.png");
+		border:hidden;
+		left: 46%;
+		top:6px;
+		height: 28px;
+		width: 50px;
+	}
+	/*SC 10172016*/
+	.iconButton {
+		position:absolute;
+		background-image: url("../lessons/shared/images/html5-button.png") !important;
+		border:hidden !important;
+		top:6px;
+		left: 52%;
+		height:28px;
+		width:50px !important;
+	}
+	
+
+}
+
+.lll-quiz-activity {
+    /*padding: 15px;*/
+	/*border-bottom: 50px solid #004A97;*/
+}
+
+.lll-activity-video-guide {
+    .cuepoint-workspace {
+        margin: 0 0 0 0px;
+    }
+    .cuepoint-video,
+    .cuepoint-image {
+        position: static;
+    }
+}
+
+/* videogular overrides */
+/*play button only*/
+videogular vg-play-pause-button,
+[videogular] vg-play-pause-button {
+    width: 0px;
+
+
+}
+
+/*both buttons under video*/
+videogular .iconButton,
+[videogular] .iconButton {
+    font-family: Myriad Pro, Arial, sans-serif;
+    font-size: 14px;
+	width: 100px;
+
+	
+	background: #009BDE;
+    &:before {
+        font-family: 'videogular';
+    }
+	
+}
+
+videogular vg-controls,
+[videogular] vg-controls,
+videogular vg-controls .controls-container,
+[videogular] vg-controls .controls-container {
+    height: 40px;
+	background: #8FC7E8;
+	border-top: 2px solid #004A97;
+	
+
+	
+	background: #009BDE;
+    &:before {
+        font-family: 'videogular';
+    }
+}	
+
+
+videogular vg-controls,
+[videogular] vg-controls,
+videogular vg-controls .controls-container,
+[videogular] vg-controls .controls-container {
+    height: 40px;
+	background: #8FC7E8;
+	border-top: 2px solid #004A97;
+	
+}
