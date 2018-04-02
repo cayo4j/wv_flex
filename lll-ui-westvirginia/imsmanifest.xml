@@ -8,35 +8,24 @@
 </metadata>
  <organizations default="ORG1">
     <organization identifier="ORG1" structure="hierarchical" adlseq:objectivesGlobalToSystem="false" adlcp:sharedDataGlobalToSystem="false">
-      <title>Virginia Lottery: Your New Altura Flex Terminal</title>
+      <title>West Virginia Lottery: Your New Flex Lottery Terminal</title>
   
         <item identifier="introduction" identifierref="introduction_resources" isvisible="true">
           <title>Introduction</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
-            <!-- Added data buckets to every SCO after evaluating the requirements according the to the texas SPEC -->
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
           </adlcp:data>
-          <!-- Progress weight value isn't really a big deal, just tells the lms how to divide the total scos over the completed -->
           <adlcp:completionThreshold progressWeight=".0277" />
           <imsss:sequencing IDRef="common_seq_rules">
             <imsss:objectives>
               <imsss:primaryObjective objectiveID="introduction_resources">
-                <!-- Do not map imsss objectives global objectives, the adlseq are the objectives you can set with javascript -->
-                <!-- Putting satisfiedByMeasure = true means there's NO other way to complete the activity objectives with JS ...-->
-                <!-- you become beholden to the LMS to manage completion overriding the adlcp mappings after termination-->
-                <!-- Additionally, there are no child aggregations, so essentially no way to Roll up completion and satisfication -->
-                <!-- All mappings on imsss objectives were removed to allow completing the activity objectives up to sco itself -->
-                <!-- That's accomplished using adl.nav.continue with with completion_status as completed -->
               </imsss:primaryObjective>
             </imsss:objectives>
             <adlseq:objectives>
               <adlseq:objective objectiveID="introduction_resources">
-                <!-- By sharing the id with the mapped global objective and the primary objective, this wont cause conflictions and confusion -->
-                <!-- adlseq objectives are the ones you get with cmi.objectives.n.* -->
-                <!-- This will be completed with javascript -->
                 <adlseq:mapInfo targetObjectiveID="lll.sequencing.introduction_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
             </adlseq:objectives>
@@ -83,7 +72,7 @@
         </item>
 
         <item identifier="external_hdw" identifierref="external_hdw_resources" isvisible="true">
-          <title>External Hardware</title>
+          <title>External Hardware Overview</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -123,7 +112,7 @@
 		
 		
         <item identifier="external_hdw_exercise" identifierref="external_hdw_exercise_resources" isvisible="true">
-          <title>External Hardware - Exercise</title>
+          <title>External Hardware Overview - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -163,7 +152,7 @@
 		
 		
         <item identifier="sign_on" identifierref="sign_on_resources" isvisible="true">
-          <title>Sign On and Home Screen</title>
+          <title>Introduction To Your New Flex Terminal Application – Sign On And Home Screen</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -202,7 +191,7 @@
         </item>		
 		
         <item identifier="sign_on_exercise" identifierref="sign_on_exercise_resources" isvisible="true">
-          <title>Sign On and Home Screen - Exercise</title>
+          <title>Introduction To Your New Flex Terminal Application – Sign On And Home Screen - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -241,7 +230,7 @@
         </item>		
 		
         <item identifier="function_buttons" identifierref="function_buttons_resources" isvisible="true">
-          <title>Function Buttons</title>
+          <title>Your New Flex Terminal Application – Function Buttons</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -280,7 +269,7 @@
         </item>	
 		
         <item identifier="function_buttons_exercise" identifierref="function_buttons_exercise_resources" isvisible="true">
-          <title>Function Buttons - Exercise</title>
+          <title>Your New Flex Terminal Application –Function Buttons– Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -320,7 +309,7 @@
 
 		
         <item identifier="game_buttons" identifierref="game_buttons_resources" isvisible="true">
-          <title>Game Buttons</title>
+          <title>Your New Flex Terminal Application – Game Buttons</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -360,7 +349,7 @@
 
 		
         <item identifier="game_buttons_exercise" identifierref="game_buttons_exercise_resources" isvisible="true">
-          <title>Game Buttons - Exercise</title>
+          <title>Your New Flex Terminal Application –Game Buttons– Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -480,7 +469,7 @@
 
 		
         <item identifier="playslip_reader" identifierref="playslip_reader_resources" isvisible="true">
-          <title>Play Slip Reader</title>
+          <title>Reader</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -520,7 +509,7 @@
 		
 		
         <item identifier="playslip_reader_exercise" identifierref="playslip_reader_exercise_resources" isvisible="true">
-          <title>Play Slip Reader - Exercise</title>
+          <title>Reader - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -560,7 +549,7 @@
 		
 		
         <item identifier="external_barcode_scanner" identifierref="external_barcode_scanner_resources" isvisible="true">
-          <title>External Barcode Scanner</title>
+          <title>Barcode Scanner</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -600,7 +589,7 @@
 				
 		
         <item identifier="external_barcode_scanner_exercise" identifierref="external_barcode_scanner_exercise_resources" isvisible="true">
-          <title>External Barcode Scanner - Exercise</title>
+          <title>External Scanner Reader – Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -720,7 +709,7 @@
 		
 		
         <item identifier="hardware_peripherals" identifierref="hardware_peripherals_resources" isvisible="true">
-          <title>Hardware and Peripherals</title>
+          <title>Hardware Peripherals</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -819,9 +808,6 @@
                 </imsss:ruleConditions>
                 <imsss:ruleAction action="disabled" />
               </imsss:preConditionRule>
-              <!-- IF SCO isn't Satisfied which is set using JS when the user completes the test ( ), then when continue is called the LMS -->
-              <!-- will send them back to the assessment SCO as if they never took it, this keeps the Course status as "In Progress" -->
-              <!-- They will never complete the course until they pass the test -->
               <imsss:postConditionRule>
                 <imsss:ruleConditions conditionCombination="all">
                   <imsss:ruleCondition operator="not" condition="satisfied" />
@@ -831,8 +817,6 @@
 						
 
             </imsss:sequencingRules>
-            <!-- NO other sco has Roll up rules except the Root Aggregation and the Assessment, and the Root Aggregation has a weight of 0 -->
-            <!-- So basically this makes what happens with this SCO, communicate up to the top, both completing the root aggregation, and satisfiying it because the weight is 1-->
             <imsss:rollupRules rollupObjectiveSatisfied="true" rollupProgressCompletion="true" objectiveMeasureWeight="1" />
             <imsss:objectives>
 			<imsss:primaryObjective objectiveID="assessment_complete"/>
@@ -858,95 +842,95 @@
       <file href="lessons/01_introduction/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="intro_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02_introduction-exercise">
-      <file href="lessons/02_introduction-exercise/lesson.json" />
+    <resource identifier="intro_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/01X_introduction_exercise">
+      <file href="lessons/01X_introduction_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="external_hdw_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03_external-hardware">
-      <file href="lessons/03_external-hardware/lesson.json" />
+    <resource identifier="external_hdw_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02_flex_hardware">
+      <file href="lessons/02_flex_hardware/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="external_hdw_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04_external-hardware-exercise">
-      <file href="lessons/04_external-hardware-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="sign_on_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05_sign-on-home-screen">
-      <file href="lessons/05_sign-on-home-screen/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="sign_on_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06_sign-on-home-screen-exercise">
-      <file href="lessons/06_sign-on-home-screen-exercise/lesson.json" />
+    <resource identifier="external_hdw_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02X_flex_hardware_exercise">
+      <file href="lessons/02X_flex_hardware_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="function_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07_function-buttons">
-      <file href="lessons/07_function-buttons/lesson.json" />
+    <resource identifier="sign_on_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03A_flex_terminal_application_sohs">
+      <file href="lessons/03A_flex_terminal_application_sohs/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="function_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08_function-buttons-exercise">
-      <file href="lessons/08_function-buttons-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="game_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09_game-buttons">
-      <file href="lessons/09_game-buttons/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="game_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/10_game-buttons-exercise">
-      <file href="lessons/10_game-buttons-exercise/lesson.json" />
+    <resource identifier="sign_on_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03AX_flex_terminal_application_sohs_exercise">
+      <file href="lessons/03AX_flex_terminal_application_sohs_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-	
-    <resource identifier="touch_screen_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/11_touch-screen">
-      <file href="lessons/11_touch-screen/lesson.json" />
+    <resource identifier="function_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03B_flex_terminal_application_function_buttons">
+      <file href="lessons/03B_flex_terminal_application_function_buttons/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="touch_screen_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/12_touch-screen-exercise">
-      <file href="lessons/12_touch-screen-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="playslip_reader_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/13_play-slip-reader">
-      <file href="lessons/13_play-slip-reader/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="playslip_reader_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/14_play-slip-reader-exercise">
-      <file href="lessons/14_play-slip-reader-exercise/lesson.json" />
+    <resource identifier="function_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03BX_flex_terminal_application_function_buttons_exercise">
+      <file href="lessons/03BX_flex_terminal_application_function_buttons_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="external_barcode_scanner_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/15_external-barcode-scanner">
-      <file href="lessons/15_external-barcode-scanner/lesson.json" />
+    <resource identifier="game_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03C_flex_terminal_application_games">
+      <file href="lessons/03C_flex_terminal_application_games/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="external_barcode_scanner_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/16_external-barcode-scanner-exercise">
-      <file href="lessons/16_external-barcode-scanner-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="printer_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/17_printer">
-      <file href="lessons/17_printer/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="printer_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/18_printer-exercise">
-      <file href="lessons/18_printer-exercise/lesson.json" />
+    <resource identifier="game_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03CX_flex_terminal_application_games_exercise">
+      <file href="lessons/03CX_flex_terminal_application_games_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="hardware_peripherals_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/19_hardware-peripherals">
-      <file href="lessons/19_hardware-peripherals/lesson.json" />
+	
+    <resource identifier="touch_screen_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04_touch_screen">
+      <file href="lessons/04_touch_screen/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="course_end_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/20_course-end">
-      <file href="lessons/20_course-end/lesson.json" />
+    <resource identifier="touch_screen_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04X_touch_screen_exercise">
+      <file href="lessons/04X_touch_screen_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/21_assessment">
-      <file href="lessons/21_assessment/lesson.json" />
+    <resource identifier="playslip_reader_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05_reader">
+      <file href="lessons/05_reader/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="playslip_reader_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05X_reader_exercise">
+      <file href="lessons/05X_reader_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+	
+    <resource identifier="external_barcode_scanner_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06_barcode_scanner">
+      <file href="lessons/06_barcode_scanner/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="external_barcode_scanner_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06X_barcode_scanner_exercise">
+      <file href="lessons/06X_barcode_scanner_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+	
+    <resource identifier="printer_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07_printer">
+      <file href="lessons/07_printer/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="printer_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07X_printer_exercise">
+      <file href="lessons/07X_printer_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+	
+    <resource identifier="hardware_peripherals_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08_hardware_peripherals">
+      <file href="lessons/08_hardware_peripherals/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="course_end_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09_course_end">
+      <file href="lessons/09_course_end/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+	
+    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/10_final_assessment">
+      <file href="lessons/10_final_assessment/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 </resources>

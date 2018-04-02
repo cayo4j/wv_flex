@@ -21,16 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
+								"url": "lessons/shared/images/wv-logo-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -46,25 +37,16 @@
 				{
 
 					"videoControl" : {
-						"time": "6.16",
+						"time": "5.59",
 						"play": true
 					},
-					"caption": "In this training series, we'll introduce you to the Flex terminal and your new terminal application.",
+					"caption": "In this training series, we'll introduce you to the Flex terminal and the updated terminal application.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
+								"url": "lessons/shared/images/terminal-only.png",
 								"width": 800,
 								"height": 450
 							}
@@ -74,7 +56,7 @@
 				{
 
 					"videoControl" : {
-						"time": "13.2",
+						"time": "11.29",
 						"play": true
 					},
 					"caption": "You'll see that your new terminal has many features that makes selling lottery easy",
@@ -83,7 +65,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
+								"url": "lessons/shared/images/terminal-only.png",
 								"width": 800,
 								"height": 450
 							}
@@ -92,7 +74,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -102,7 +84,7 @@
 				{
 
 					"videoControl" : {
-						"time": "18.91",
+						"time": "15.79",
 						"play": true
 					},
 					"caption": "and your modern and intuitive terminal application requires fewer menu selections for your most used functions.",
@@ -111,7 +93,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -120,7 +102,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.jpg",
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
 								"width": 800,
 								"height": 450
 							}
@@ -130,7 +112,7 @@
 				{
 
 					"videoControl" : {
-						"time": "25.61",
+						"time": "22.37",
 						"play": true
 					},
 					"caption": "It's so easy to use, you'll be comfortable with it in no time!"
@@ -139,7 +121,7 @@
 				{
 
 					"videoControl" : {
-						"time": "29.06",
+						"time": "25.55",
 						"play": true
 					},
 					"caption": "Your terminal will be accompanied by several new peripherals like the Ticket Scan Plus, Flex Printer, a Customer Display Unit, and digital jackpot signage at qualifying retailers.",
@@ -148,7 +130,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.jpg",
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
 								"width": 800,
 								"height": 450
 							}
@@ -157,7 +139,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/learner-center.jpg",
+								"url": "lessons/shared/images/learner-center.png",
 								"width": 800,
 								"height": 450
 							}
@@ -167,7 +149,7 @@
 				{
 
 					"videoControl" : {
-						"time": "38.358",
+						"time": "36.64",
 						"play": true
 					},
 					"caption": "Once you complete this course and brief assessment, return to the Learner Center and click on Transcript to view and print your certificate.",
@@ -176,7 +158,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/learner-center.jpg",
+								"url": "lessons/shared/images/learner-center.png",
 								"width": 800,
 								"height": 450
 							}
@@ -195,16 +177,36 @@
 				{
 
 					"videoControl" : {
-						"time": "47.357",
+						"time": "45.34",
 						"play": true
 					},
-					"caption": "The modules in this course include lessons with interactive and text-based exercises. "
+					"caption": "The modules in this course include lessons with interactive and text-based exercises. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/learner-center.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/learner-center-transcriptCO.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 					
 				},
 				{
 
 					"videoControl" : {
-						"time": "53.73",
+						"time": "52.42",
 						"play": true
 					},
 					"caption": "Did you hear that?"
@@ -212,7 +214,7 @@
 				{
 
 					"videoControl" : {
-						"time": "55.4",
+						"time": "53.85",
 						"play": true
 					},
 					"caption": "That sound means there is a question or task waiting for you."
@@ -220,7 +222,7 @@
 				{
 
 					"videoControl" : {
-						"time": "58.95",
+						"time": "57.48",
 						"play": true
 					},
 					"caption": "Here's your first question now!"
