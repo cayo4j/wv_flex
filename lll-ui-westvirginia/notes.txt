@@ -1,4 +1,4 @@
-Batman or Iron Man? Answer:_________
+Batman or Iron Man? Answer:Batman_________
 
     <resource identifier="introduction_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/Course1_Intro">
       <file href="lessons/Course1_Intro/lesson.json" />
