@@ -24,3 +24,4 @@ dist
 /config/grunt-local.conf.json
 /dev/components/.+/jsconfig.json
 /jsconfig.json
+/.metadata/
