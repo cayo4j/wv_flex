@@ -2,7 +2,7 @@
   "name": "lll-ui-dev",
   "version": "0.0.0",
   "license": "IGT",
-  "repository": "https://xxgit1/LLL/lll-ui",
+  "repository": "https://github.com/cayo4j/wv_flex.git",
   "jspm": {
     "directories": {
       "packages": "dev/jspm_packages"
