@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Hardware Peripherals",
 			"video": {
-				"url": "lessons/shared/videos/HardwarePeripherals.mp4"
+				"url": "lessons/shared/videos/HardwarePeripherals_WestVirginia.mp4"
 			},
 
 				"cuepoints": [
@@ -32,10 +32,10 @@
 				{
 
 					"videoControl" : {
-						"time": "4",
+						"time": "4.32",
 						"play": true
 					},
-					"caption": "Near your terminal most likely you’ll have a Multimedia Monitor connected to it.",
+					"caption": "Near your terminal most likely you’ll have an ESMM Monitor connected to it.",
 					"overlays": [
 						{
 							"left": 0,
@@ -57,10 +57,10 @@
 				{
 
 					"videoControl" : {
-						"time": "9.227",
+						"time": "9.596",
 						"play": true
 					},
-					"caption": "This 22\" monitor replaces the VFD for displaying player transaction information for player security when purchasing and cashing tickets.",
+					"caption": "This 22\" monitor replaces player transaction information for player security when purchasing and cashing tickets.",
 					"overlays": [
 						{
 							"left": 0,
@@ -85,10 +85,10 @@
 				{
 
 					"videoControl" : {
-						"time": "17.412",
+						"time": "16.782",
 						"play": true
 					},
-					"caption": "In addition, this monitor displays advertising, winner awareness and messaging",
+					"caption": "When a transaction is not being performed,  monitor displays advertising, winner awareness and messaging",
 					"overlays": [
 						{
 							"left": 0,
@@ -104,7 +104,7 @@
 				{
 
 					"videoControl" : {
-						"time": "22.828",
+						"time": "23.202",
 						"play": true
 					},
 					"caption": "and it is clearly visible to players up to 15 feet away.",
@@ -132,10 +132,10 @@
 				{
 
 					"videoControl" : {
-						"time": "26.458",
+						"time": "26.884",
 						"play": true
 					},
-					"caption": "Ensure the Multimedia Monitor power is ON so it is always displaying information to your players.",
+					"caption": "Ensure the ESMM Monitor power button is ON so that it is always displaying information to your players.",
 					"overlays": [
 						{
 							"left": 0,
@@ -169,10 +169,10 @@
 				{
 
 					"videoControl" : {
-						"time": "32.018",
+						"time": "33.48",
 						"play": true
 					},
-					"caption": "It can help you increase lottery sales at your store!",
+					"caption": "The monitor will help you increase lottery sales at your store!",
 					"overlays": [
 						{
 							"left": 0,
@@ -198,10 +198,10 @@
 				{
 
 					"videoControl" : {
-						"time": "34.858",
+						"time": "36.93",
 						"play": true
 					},
-					"caption": "Let’s talk about another piece of lottery hardware you may have connected to your terminal, the Ticket Scan Plus, or TSP.",
+					"caption": "Let’s talk about another piece of lottery hardware you may have connected to your terminal, the Ticket Scan Plus.",
 					"overlays": [
 						{
 							"left": 0,
@@ -217,10 +217,10 @@
 				{
 
 					"videoControl" : {
-						"time": "42.303",
+						"time": "42.582",
 						"play": true
 					},
-					"caption": "The TSP is the next generation of self-service designed for players to check their Draw Game and Scratcher tickets for winning status without interrupting your store routine.",
+					"caption": "The Ticket Scan Plus is the next generation of self-service designed for players to check their Draw Game and Scratch Off tickets for winning ticket status without interrupting your store routine.",
 					"overlays": [
 						{
 							"left": -9999,
@@ -236,7 +236,7 @@
 				{
 
 					"videoControl" : {
-						"time": "51.256",
+						"time": "53.447",
 						"play": true
 					},
 					"caption": "The built-in red beam shows the player where to place the ticket.",
@@ -264,10 +264,10 @@
 				{
 
 					"videoControl" : {
-						"time": "55.113",
+						"time": "56.631",
 						"play": true
 					},
-					"caption": "Players simply hold the ticket barcode under the red beam, watch for the confirmation code to indicate the ticket has been successfully read, and watch for the results on the display.",
+					"caption": "Players simply hold the ticket barcode under the red beam, watch for the confirmation code to indicate the ticket has been successfully read, and view the results on the display.",
 					"overlays": [
 						{
 							"left": 0,
@@ -293,10 +293,10 @@
 				{
 
 					"videoControl" : {
-						"time": "64.26",
+						"time": "66.138",
 						"play": true
 					},
-					"caption": "If a ticket is a winner, the player presents it to you for validation.",
+					"caption": "If a ticket is a winner, then the player will need to present the ticket to you for validation at the terminal.",
 					"overlays": [
 						{
 							"left": 0,
@@ -312,7 +312,7 @@
 				{
 
 					"videoControl" : {
-						"time": "68.608",
+						"time": "72.086",
 						"play": true
 					},
 					"caption": "Ready to move on? Let's go."

@@ -34,7 +34,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Play Slip Reader - Exercise",
-			"label": "True or False: Play Slips must be inserted into the Play Slip Reader vertically.",
+			"label": "True or False: Play Slips must be inserted into the Reader vertically.",
 			"options": [
 				{
 					"label": "True",

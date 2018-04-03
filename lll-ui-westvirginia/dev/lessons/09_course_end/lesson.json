@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Course End",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/CourseEnd_WestVirginia.mp4"
 			},
 
 				"cuepoints": [
@@ -21,15 +21,15 @@
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "1.98",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "We went over all the pieces of your Flex terminal and your new terminal application."
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "6.427",
 						"play": true
 					},
 					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
@@ -37,7 +37,7 @@
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "11.025",
 						"play": true
 					},
 					"caption": "To receive your certificate, just answer the questions on the following screens."
@@ -45,7 +45,7 @@
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "15.213",
 						"play": true
 					},
 					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
@@ -53,7 +53,7 @@
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "21.204",
 						"play": true
 					},
 					"caption": "Once you have your certificate, you'll be on your way."
@@ -62,7 +62,7 @@
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "24.15",
 						"play": true
 					},
 					"caption": "Good Luck!"

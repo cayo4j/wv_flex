@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Sign On and Home Screen",
 			"video": {
-				"url": "lessons/shared/videos/Application_SignOnHomeScreen.mp4"
+				"url": "lessons/shared/videos/Application_SignOnHomeScreen_WestVirginia.mp4"
 			},
 
 				"cuepoints": [
@@ -72,7 +72,7 @@
 						"time": "10.981",
 						"play": true
 					},
-					"caption": "The process to sign on is exactly the same, simply enter your Clerk Number",
+					"caption": "Simply enter your 8 digit Clerk Number,",
 					"overlays": [
 						{
 							"left": 0,
@@ -108,7 +108,7 @@
 						"time": "15.632",
 						"play": true
 					},
-					"caption": "and Pass Number,",
+					"caption": "and 4 digit Pass Number,",
 					"overlays": [
 						{
 							"left": 0,
@@ -154,7 +154,7 @@
 						"time": "17.024",
 						"play": true
 					},
-					"caption": "and touch Login,",
+					"caption": "and the Home Screen displays.",
 					"overlays": [
 						{
 							"left": 0,
@@ -200,7 +200,7 @@
 						"time": "18.691",
 						"play": true
 					},
-					"caption": "and the Home Screen displays.",
+					"caption": "If there is a news message, it displays on the Home Screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -219,7 +219,7 @@
 						"time": "20.66",
 						"play": true
 					},
-					"caption": "Just like before, if there is a news message, it displays on the screen.",
+					"caption": "To print the message, touch a number of copies button, and touch print.",
 					"overlays": [
 						{
 							"left": 0,
@@ -247,7 +247,7 @@
 						"time": "25.336",
 						"play": true
 					},
-					"caption": "Touch OK",
+					"caption": "or touch OK to go to the Home Screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -284,7 +284,7 @@
 						"time": "26.842",
 						"play": true
 					},
-					"caption": "or to print the message, select the number of copies you want and touch PRINT.",
+					"caption": "I'll touch OK",
 					"overlays": [
 						{
 							"left": 0,
@@ -349,7 +349,7 @@
 						"time": "35.609",
 						"play": true
 					},
-					"caption": "This is called the Status Bar and at this point, it is indicating the system is \"Ready\"",
+					"caption": "This is called the Status Bar,",
 					"overlays": [
 						{
 							"left": 0,
@@ -386,7 +386,7 @@
 						"time": "40.88",
 						"play": true
 					},
-					"caption": "and shows the number of the clerk that is currently logged in.",
+					"caption": "it shows the number of the clerk that is currently logged in.",
 					"overlays": [
 						{
 							"left": 0,
@@ -460,7 +460,7 @@
 						"time": "48.807",
 						"play": true
 					},
-					"caption": "Regarding the Help function, you'll notice that there is only one button.",
+					"caption": "About the Help function, you'll notice that there is only one button.",
 					"overlays": [
 						{
 							"left": 0,
@@ -488,7 +488,7 @@
 						"time": "53.085",
 						"play": true
 					},
-					"caption": "Touch Help from any screen",
+					"caption": "Touch Help on any screen, and a pop-up displays information related to the screen you are on.",
 					"overlays": [
 						{
 							"left": 0,
@@ -534,7 +534,7 @@
 						"time": "55.045",
 						"play": true
 					},
-					"caption": "and a pop-up displays information related to the screen you are on.",
+					"caption": "Touch OK once you read the help text.",
 					"overlays": [
 						{
 							"left": 0,
@@ -562,7 +562,7 @@
 						"time": "59.482",
 						"play": true
 					},
-					"caption": "Touch OK once you read the help text.",
+					"caption": "Video help is accessed from the special functions menu",
 					"overlays": [
 						{
 							"left": 0,
@@ -599,7 +599,7 @@
 						"time": "63.271",
 						"play": true
 					},
-					"caption": "Here is the Home Button and a new feature: Breadcrumb navigation.",
+					"caption": "Here is the Home button, and it features bread crumb navigation.",
 					"overlays": [
 						{
 							"left": 0,
@@ -627,7 +627,7 @@
 						"time": "66.617",
 						"play": true
 					},
-					"caption": "As you move from screen ",
+					"caption": "As you move from screen",
 					"overlays": [
 						{
 							"left": 0,
@@ -771,7 +771,7 @@
 						"time": "74.076",
 						"play": true
 					},
-					"caption": "So it's much easier to navigate between screens. ",
+					"caption": "So it's much easier to go back and navigate between screens.For example, for the Mail screen shown here, touch Special Functions to return to the Special Functions menu",
 					"overlays": [
 						{
 							"left": 0,
@@ -799,7 +799,7 @@
 						"time": "77.317",
 						"play": true
 					},
-					"caption": "For example, for the Mail screen shown here, touch Services to return to the Services menu ",
+					"caption": "or Home to return Home.",
 					"overlays": [
 						{
 							"left": 0,
@@ -836,7 +836,7 @@
 						"time": "83.936",
 						"play": true
 					},
-					"caption": "or Home to return Home. ",
+					"caption": "Here, on the right side of the screen, are the status buttons for Local Communications Activity,",
 					"overlays": [
 						{
 							"left": 0,
@@ -864,7 +864,7 @@
 						"time": "86.647",
 						"play": true
 					},
-					"caption": "I'll touch Home.",
+					"caption": "the Printer,",
 					"overlays": [
 						{
 							"left": 0,
@@ -910,7 +910,7 @@
 						"time": "88.26",
 						"play": true
 					},
-					"caption": "Here, on the right side of the screen, are the status buttons for Communications Activity,",
+					"caption": "Device Status,",
 					"overlays": [
 						{
 							"left": 0,
@@ -947,7 +947,7 @@
 						"time": "93.23",
 						"play": true
 					},
-					"caption": "the Printer,",
+					"caption": "and Mail News Messages.",
 					"overlays": [
 						{
 							"left": 0,
@@ -984,7 +984,7 @@
 						"time": "94.455",
 						"play": true
 					},
-					"caption": "Device Statuses,",
+					"caption": "Touch one of these buttons to view that particular device's' status.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1021,7 +1021,7 @@
 						"time": "96.157",
 						"play": true
 					},
-					"caption": "and Mail.",
+					"caption": "I'll touch the Printer button",
 					"overlays": [
 						{
 							"left": 0,
@@ -1058,7 +1058,7 @@
 						"time": "97.739",
 						"play": true
 					},
-					"caption": "Touch one of these buttons to view a particular device status.",
+					"caption": "and the current status - \"Ready\" displays.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1095,7 +1095,7 @@
 						"time": "100.657",
 						"play": true
 					},
-					"caption": "I'll touch the Printer button",
+					"caption": "The Mail icon will indicate news messages from the West Virginia Lottery and also acts as a shortcut button to the Mail screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -1150,7 +1150,7 @@
 						"time": "102.76",
 						"play": true
 					},
-					"caption": "and the current status - \"Ready\" displays.",
+					"caption": "The current date and time display here,",
 					"overlays": [
 						{
 							"left": 0,
@@ -1196,7 +1196,7 @@
 						"time": "105.698",
 						"play": true
 					},
-					"caption": "The Mail icon will indicate messages from the Virginia Lottery and also acts as a shortcut button to the Mail screen.",
+					"caption": "and the earliest date of birth to meet the legal age to purchase lottery products displays here for easy reference!",
 					"overlays": [
 						{
 							"left": 0,
@@ -1233,7 +1233,7 @@
 						"time": "113.448",
 						"play": true
 					},
-					"caption": "The Terminal Number, Date and Time display here",
+					"caption": "We'll cover the rest of the features of your terminal application in the next lessons. Let's move on!",
 					"overlays": [
 						{
 							"left": 0,
@@ -1263,42 +1263,6 @@
 							}
 						}
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "116.842",
-						"play": true
-					},
-					"caption": "and the current legal age to purchase lottery products displays here for easy reference!",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_legal_age.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "122.044",
-						"play": true
-					},
-					"caption": "We'll cover the rest of the features of your new terminal application in the next lessons. Let's move on!"
 				}]
 },
 				{

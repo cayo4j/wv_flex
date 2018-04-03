@@ -7,7 +7,6 @@
 			"video": {
 				"url": "lessons/shared/videos/Application_FunctionButtons_WestVirginia_v2.mp4"
 			},
-
 				"cuepoints": [
 
 
@@ -167,7 +166,7 @@
 						"time": "25.19",
 						"play": true
 					},
-					"caption": "You can use the plus and minus icons to increase and decrease brightness",
+					"caption": "You can use the plus and minus buttons to increase and decrease brightness",
 					"overlays": [
 						{
 							"left": 0,

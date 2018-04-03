@@ -48,7 +48,7 @@
 						"time": "20.26",
 						"play": true
 					},
-					"caption": "Here on the bottom center of  the Touch Screen frame is one of the terminal’s two power buttons. "
+					"caption": "Here on the bottom center of the Touch Screen frame is one of the terminal’s two power buttons. "
 				},
 				{
 
@@ -282,7 +282,7 @@
 						"time": "97.93",
 						"play": true
 					},
-					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light above the button turns amber.",
+					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light turns amber.",
 					"overlays": [
 						{
 							"left": 0,
@@ -318,7 +318,7 @@
 						"time": "107.62",
 						"play": true
 					},
-					"caption": "The amber light will turn green and the terminal will begin to load.."
+					"caption": "The amber light will turn green and the terminal will begin to load."
 				},
 				{
 
