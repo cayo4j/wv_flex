@@ -852,52 +852,52 @@ function loadImages(){
                     bottomRightY = 0;
                 break;
                 case 9:
-                    topLeftX = 172;
-                    topLeftY = 113;
-                    bottomRightX = 206;
-                    bottomRightY = 136;
+                    topLeftX = 150;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 10:
-                    topLeftX = 157;
-                    topLeftY = 117;
-                    bottomRightX = 207;
-                    bottomRightY = 137;
+                    topLeftX = 150;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 11:
-                    topLeftX = 143;
-                    topLeftY = 119;
-                    bottomRightX = 203;
-                    bottomRightY = 137;
+                    topLeftX = 140;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 12:
-                    topLeftX = 129;
-                    topLeftY = 118;
-                    bottomRightX = 199;
-                    bottomRightY = 139;
+                    topLeftX = 120;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 13:
-                    topLeftX = 117;
-                    topLeftY = 115;
-                    bottomRightX = 191;
-                    bottomRightY = 139;
+                    topLeftX = 110;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 14:
-                    topLeftX = 108;
-                    topLeftY = 115;
-                    bottomRightX = 177;
-                    bottomRightY = 141;
+                    topLeftX = 100;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 15:
-                    topLeftX = 99;
-                    topLeftY = 112;
-                    bottomRightX = 164;
-                    bottomRightY = 142;
+                    topLeftX = 90;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 16:
-                    topLeftX = 97;
-                    topLeftY = 108;
-                    bottomRightX = 137;
-                    bottomRightY = 141;
+                    topLeftX = 90;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 17: case 18: case 19: case 20: case 21: case 22: case 23:
                     topLeftX = 0;
@@ -911,10 +911,10 @@ function loadImages(){
 		if(p == 6){
 			//2nd power button
 
-            topLeftX = 103;
-			topLeftY = 90;
-			bottomRightX = 125;
-			bottomRightY = 109;	
+            topLeftX = 80;
+			topLeftY = 80;
+			bottomRightX = 150;
+			bottomRightY = 150;	
 
 		};
                 
