@@ -72,7 +72,7 @@
         </item>
 
         <item identifier="external_hdw" identifierref="external_hdw_resources" isvisible="true">
-          <title>External Hardware Overview</title>
+          <title>Flex Hardware</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -112,7 +112,7 @@
 		
 		
         <item identifier="external_hdw_exercise" identifierref="external_hdw_exercise_resources" isvisible="true">
-          <title>External Hardware Overview - Exercise</title>
+          <title>Flex Hardware - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -152,7 +152,7 @@
 		
 		
         <item identifier="sign_on" identifierref="sign_on_resources" isvisible="true">
-          <title>Introduction To Your New Flex Terminal Application – Sign On And Home Screen</title>
+          <title>Flex Terminal Application – Sign On And Home Screen</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -191,7 +191,7 @@
         </item>		
 		
         <item identifier="sign_on_exercise" identifierref="sign_on_exercise_resources" isvisible="true">
-          <title>Introduction To Your New Flex Terminal Application – Sign On And Home Screen - Exercise</title>
+          <title>Flex Terminal Application – Sign On And Home Screen - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -230,7 +230,7 @@
         </item>		
 		
         <item identifier="function_buttons" identifierref="function_buttons_resources" isvisible="true">
-          <title>Your New Flex Terminal Application – Function Buttons</title>
+          <title>Flex Terminal Application – Function Buttons</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -269,7 +269,7 @@
         </item>	
 		
         <item identifier="function_buttons_exercise" identifierref="function_buttons_exercise_resources" isvisible="true">
-          <title>Your New Flex Terminal Application –Function Buttons– Exercise</title>
+          <title>Flex Terminal Application –Function Buttons– Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -309,7 +309,7 @@
 
 		
         <item identifier="game_buttons" identifierref="game_buttons_resources" isvisible="true">
-          <title>Your New Flex Terminal Application – Game Buttons</title>
+          <title>Flex Terminal Application – Game Buttons</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -349,7 +349,7 @@
 
 		
         <item identifier="game_buttons_exercise" identifierref="game_buttons_exercise_resources" isvisible="true">
-          <title>Your New Flex Terminal Application –Game Buttons– Exercise</title>
+          <title>Flex Terminal Application –Game Buttons– Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -549,7 +549,7 @@
 		
 		
         <item identifier="external_barcode_scanner" identifierref="external_barcode_scanner_resources" isvisible="true">
-          <title>Barcode Scanner</title>
+          <title>Bar Code Scanner</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -589,7 +589,7 @@
 				
 		
         <item identifier="external_barcode_scanner_exercise" identifierref="external_barcode_scanner_exercise_resources" isvisible="true">
-          <title>External Scanner Reader – Exercise</title>
+          <title>Bar Code Scanner – Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
