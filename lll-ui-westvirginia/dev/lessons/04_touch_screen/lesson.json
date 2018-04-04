@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Touch Screen",
 			"video": {
-				"url": "lessons/shared/videos/Touchscreen.mp4"
+				"url": "lessons/shared/videos/Touchscreen_WestVirginia.mp4"
 			},
 
 				"cuepoints": [
@@ -20,16 +20,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-homescreen_lowres.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"url": "lessons/shared/images/flex-terminal-application.png",
 								"width": 800,
 								"height": 450
 							}
@@ -47,7 +38,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"url": "lessons/shared/images/flex-terminal-application.png",
 								"width": 800,
 								"height": 450
 							}
@@ -60,13 +51,13 @@
 						"time": "3.721",
 						"play": true
 					},
-					"caption": "The Altura Flex Touch Screen is a 15.6\" high-resolution display and even though your new terminal has a smaller footprint, the screen is larger! ",
+					"caption": "The Flex Touch Screen is a 15.6\" high-resolution display.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"url": "lessons/shared/images/flex-terminal-application.png",
 								"width": 800,
 								"height": 450
 							}
@@ -88,7 +79,7 @@
 						"time": "17.42",
 						"play": true
 					},
-					"caption": "or down to the desired height."
+					"caption": "or down to the desired height and angle."
 
 				},
 				{
@@ -97,18 +88,7 @@
 						"time": "19.64",
 						"play": true
 					},
-					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass."
 
 				},
 				{
@@ -123,7 +103,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
+								"url": "lessons/shared/images/pens-pencils-fingernails.png",
 								"width": 800,
 								"height": 450
 							}
@@ -136,18 +116,7 @@
 						"time": "31.172",
 						"play": true
 					},
-					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.  ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/wiping-screen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.  "
 
 				},
 				{
@@ -162,16 +131,10 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/wiping-screen.jpg",
+								"url": "lessons/shared/images/wiping-screen.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-                            "left": 200,
-                            "top": 100,
-                            "label": "Clean with Non-Ammonia Cleaning Solution on a Soft, Lint-Free Cloth",
-                            "blink": "none"
 						}
 					]
 				},
@@ -188,24 +151,6 @@
                             "top": 120,
                             "label": "Never Spray Cleaning Solution Directly Onto the Screen!",
                             "blink": "none"
-						},
-{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/lockHighlight.png",
-								"width": 800,
-								"height": 450
-							}
 						}						
 					]
 				},
@@ -215,13 +160,13 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "And, same as always, remember to Lock your Touch Screen before cleaning to avoid placing wagers by accident.",
+					"caption": "And, remember to Lock your Touch Screen before cleaning to avoid placing wagers by accident.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/lock-screen.png",
 								"width": 800,
 								"height": 450
 							}
