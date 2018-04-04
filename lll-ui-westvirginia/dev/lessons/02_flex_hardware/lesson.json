@@ -152,27 +152,7 @@
 						"time": "63.294",
 						"play": true
 					},
-					"caption": "Finally, we have the Flex Printer, which produces draw game tickets, receipts for various transactions, produces promotional coupons, and prints reports.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Finally, we have the Flex Printer, which produces draw game tickets, receipts for various transactions, produces promotional coupons, and prints reports."
 				},
 				{
 
@@ -235,18 +215,7 @@
 						"time": "89.334",
 						"play": true
 					},
-					"caption": "Ok, let's turn on the terminal. Remember, there are two power buttons you can use.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Ok, let's turn on the terminal. Remember, there are two power buttons you can use."
 				},
 				{
 
@@ -329,7 +298,7 @@
 					"caption": "To turn the power off with the second power button, just reach around and set it to the right which is the OFF position.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on.png",
@@ -338,7 +307,7 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on-highlight.png",
@@ -360,31 +329,13 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/power-btn-on.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
 								"url": "lessons/shared/images/power-btn-off.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-off-highlight.png",
@@ -400,45 +351,7 @@
 						"time": "123.845",
 						"play": true
 					},
-					"caption": "You'll hear the terminal coming to life!",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-off.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-off-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "You'll hear the terminal coming to life!"
 				},
 				{
 
@@ -446,27 +359,7 @@
 						"time": "126.682",
 						"play": true
 					},
-					"caption": "Now I’m going to give you a chance to see if you can identify all the parts I just showed you!",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Now I’m going to give you a chance to see if you can identify all the parts I just showed you!"
 				}
 ]
 },

@@ -37,28 +37,28 @@
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": false
+					"isCorrect": true
 				},
 				{
 					"label": "False",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
 				"valid": {
-					"label": "Correct!",
+					"label": "Correct: Great Job!",
 					"text": "Click OK to Continue."
 				},
 				"invalid": {
-					"label": " Sorry, ",
-					"text": "The correct answer is False. The Sign On procedure for your new terminal is exactly the same!"
+					"label": " Incorrect: Sorry, the correct answer is True",
+					"text": "The correct answer is True. The Sign On procedure for your new terminal is different!"
 				}
 			}
 		},
 		{
 			"type": "guiSimulation",
 			"name": "Sign On and Home Screen - Exercise",
-			"label": "Find the Help Button.",
+			"label": "Let's identify the various parts of the Home Screen we just reviewed.",
 			
 			"cuepoints": [
 				{
@@ -89,7 +89,7 @@
                         {
                             "left": 552,
                             "top": 155,
-                            "label": "Now, identify the various parts of the Home Screen we just reviewed. Find the Help Button."
+                            "label": "Find the Help button."
                         }
 					],
 				
@@ -237,7 +237,7 @@
                         {
                             "left": 552,
                             "top": 155,
-                            "label": "Find the Sign Out button."
+                            "label": "Find the Sign Off button."
                         }
 					],
 				
