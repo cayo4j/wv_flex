@@ -50,7 +50,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/insert-playslip-reader.png",
 								"width": 800,
 								"height": 450
 							}
@@ -69,7 +69,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/insert-playslip-reader.png",
 								"width": 800,
 								"height": 450
 							}
@@ -88,7 +88,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -169,7 +169,18 @@
 						"time": "45.04",
 						"play": true
 					},
-					"caption": "Remember, Scratch Offs should never come into contact with this area of the terminal."
+					"caption": "Remember, Scratch Offs should never come into contact with this area of the terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -183,7 +194,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
 								"width": 800,
 								"height": 450
 							}

@@ -21,7 +21,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor.png",
 								"width": 800,
 								"height": 450
 							}
@@ -41,7 +41,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor.png",
 								"width": 800,
 								"height": 450
 							}
@@ -66,7 +66,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor.png",
 								"width": 800,
 								"height": 450
 							}
@@ -94,7 +94,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-advertising.png",
 								"width": 800,
 								"height": 450
 							}
@@ -107,13 +107,13 @@
 						"time": "23.202",
 						"play": true
 					},
-					"caption": "and it is clearly visible to players up to 15 feet away.",
+					"caption": "it is clearly visible to players up to 15 feet away.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-advertising.png",
 								"width": 800,
 								"height": 450
 							}
@@ -141,7 +141,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-advertising.png",
 								"width": 800,
 								"height": 450
 							}
@@ -178,7 +178,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/coach-anthony-centered.jpg",
+								"url": "lessons/shared/images/esmm-monitor-advertising.png",
 								"width": 800,
 								"height": 450
 							}
@@ -207,7 +207,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"url": "lessons/shared/images/ticket-scan-plus.png",
 								"width": 800,
 								"height": 450
 							}
@@ -226,7 +226,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"url": "lessons/shared/images/tsp-red-beam.png",
 								"width": 800,
 								"height": 450
 							}
@@ -245,7 +245,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"url": "lessons/shared/images/tsp-red-beam.png",
 								"width": 800,
 								"height": 450
 							}
@@ -273,7 +273,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
+								"url": "lessons/shared/images/tsp-red-beam.png",
 								"width": 800,
 								"height": 450
 							}
