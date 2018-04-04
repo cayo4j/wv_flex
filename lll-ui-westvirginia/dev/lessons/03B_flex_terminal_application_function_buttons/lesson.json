@@ -377,7 +377,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/special-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -396,7 +396,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/special-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -415,7 +415,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/special-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -434,7 +434,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/special-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -527,7 +527,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -556,7 +556,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.png",
+								"url": "lessons/shared/images/reports-menu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -575,16 +575,10 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.png",
+								"url": "lessons/shared/images/winner-information.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-                            "left": 421,
-                            "top": 327,
-                            "label": "Access All Reports From This Menu",
-                            "blink": "none"						
 						} 
 					]
 				},
@@ -600,7 +594,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.png",
+								"url": "lessons/shared/images/winner-info-select-date.png",
 								"width": 800,
 								"height": 450
 							}
@@ -628,7 +622,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reports.png",
+								"url": "lessons/shared/images/winner-info-cash25.png",
 								"width": 800,
 								"height": 450
 							}
@@ -665,7 +659,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/select-game.png",
+								"url": "lessons/shared/images/winner-info-cash25.png",
 								"width": 800,
 								"height": 450
 							}
@@ -702,7 +696,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/select-date.png",
+								"url": "lessons/shared/images/winner-info-cash25.png",
 								"width": 800,
 								"height": 450
 							}
@@ -739,7 +733,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.png",
+								"url": "lessons/shared/images/winner-info-cash25.png",
 								"width": 800,
 								"height": 450
 							}
@@ -758,7 +752,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -786,7 +780,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -805,7 +799,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-winner-info.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -842,7 +836,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/insert-online-tkt-reader.png",
 								"width": 800,
 								"height": 450
 							}
@@ -864,7 +858,18 @@
 						"time": "107.331",
 						"play": true
 					},
-					"caption": "You could also use the Validate Ticket function on the Online Functions menu to validate a draw game ticket."
+					"caption": "You could also use the Validate Ticket function on the Online Functions menu to validate a draw game ticket.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/online-functions.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -878,7 +883,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-online-tkt.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -897,7 +902,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -916,7 +921,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/scan-online-tkt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -953,7 +958,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan-online-tkt.png",
+								"url": "lessons/shared/images/scan-instant-tkt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -972,7 +977,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -991,7 +996,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.png",
+								"url": "lessons/shared/images/instant-functions.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1010,7 +1015,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.png",
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1029,7 +1034,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
