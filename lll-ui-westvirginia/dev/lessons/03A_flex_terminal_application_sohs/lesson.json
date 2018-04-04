@@ -84,13 +84,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-                            "left": 553,
-                            "top": 143,
-                            "label": "Sign On Procedure is Exactly the Same",
-                            "blink": "none"						
-						
 						}
 						
 					]
@@ -128,7 +121,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/news-message.png",
 								"width": 800,
 								"height": 450
 							}
@@ -827,7 +820,7 @@
 						"play": true
 					},
 
-					"caption": "I'll touch the Printer button",
+					"caption": "Touch one of these buttons to view that particular device's status.",
 
 					"overlays": [
 						{
@@ -857,7 +850,7 @@
 						"play": true
 					},
 
-					"caption": "and the current status - \"Ready\" displays.",
+					"caption": "I’ll touch the Printer button",
 
 					"overlays": [
 						{
@@ -887,7 +880,7 @@
 						"play": true
 					},
 
-					"caption": "The Mail icon will indicate news messages from the West Virginia Lottery and also acts as a shortcut button to the Mail screen.",
+					"caption": " and the current status - \"Ready\" displays.",
 
 					"overlays": [
 						{
@@ -919,14 +912,14 @@
 						}
 					]
 				},
-				{
+{
 
 					"videoControl" : {
-						"time": "104.902",
+						"time": "104.964",
 						"play": true
 					},
 
-					"caption": "The current date and time display here,",
+					"caption": "The Mail icon will indicate news messages from the West Virginia Lottery and also acts as a shortcut button to the Mail screen.",
 
 					"overlays": [
 						{
@@ -942,13 +935,22 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_ready_tooltip.png",
+								"url": "lessons/shared/images/btn_printer.png",
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 668,
+							"top": 16,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png",
+								"width": 76,
+								"height": 132
+							}
 						}
 					]
-				},
+				},				
 				{
 
 					"videoControl" : {
