@@ -72,11 +72,9 @@
 						"time": "11.3",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "Simply enter your 8 digit Clerk Number,",
-=======
-					"caption": "Simply enter your 8-digit Clerk Number",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -103,11 +101,9 @@
 						"time": "13.834",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "and 4 digit Pass Number,",
-=======
-					"caption": "and 4-digit Pass Number,",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -164,11 +160,9 @@
 						"time": "20.28",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "To print the message, touch a number of copies button, and touch print.",
-=======
+
 					"caption": "To print the message, touch a number of copies button and touch Print",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -215,11 +209,9 @@
 						"time": "28.495",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "I'll touch OK",
-=======
+
 					"caption": "I'll touch OK.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -275,11 +267,10 @@
 						"time": "33.556",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "This is called the Status Bar,",
-=======
+
+
 					"caption": "This is called the Status Bar.  It shows the number of the clerk that is currently logged in.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -316,11 +307,9 @@
 						"time": "38.398",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "it shows the number of the clerk that is currently logged in.",
-=======
+
 					"caption": "Above that are your Sign Out, Help and Lock Buttons.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -376,11 +365,9 @@
 						"time": "47.434",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "About the Help function, you'll notice that there is only one button.",
-=======
+
 					"caption": "Touch Help on any screen",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -408,11 +395,9 @@
 						"time": "49.431",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Touch Help on any screen, and a pop-up displays information related to the screen you are on.",
-=======
+
 					"caption": "and a pop-up displays information related to the screen you are on.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -431,11 +416,9 @@
 						"time": "53.736",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Touch OK once you read the help text.",
-=======
+
 					"caption": "Touch OK once you read the Help text.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -454,11 +437,9 @@
 						"time": "56.611",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Video help is accessed from the special functions menu",
-=======
+
 					"caption": "Video Help is accessed from the Special Functions menu.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -486,11 +467,9 @@
 						"time": "60.469",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Here is the Home button, and it features bread crumb navigation.",
-=======
+
 					"caption": "Here is the Home Button and it features:",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -518,11 +497,9 @@
 						"time": "62.501",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "As you move from screen",
-=======
+
 					"caption": "Breadcrumb navigation. As you move from screen",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -630,11 +607,9 @@
 						"time": "71.236",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "So it's much easier to go back and navigate between screens.For example, for the Mail screen shown here, touch Special Functions to return to the Special Functions menu",
-=======
+
 					"caption": "So it's much easier to go back and navigate between screens.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -662,11 +637,9 @@
 						"time": "75.223",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "or Home to return Home.",
-=======
+
 					"caption": "For example, for the Mail screen shown here, touch Special Functions to return to the Special Functions menu",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -694,11 +667,9 @@
 						"time": "82.289",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Here, on the right side of the screen, are the status buttons for Local Communications Activity,",
-=======
+
 					"caption": "or Home to return Home.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -726,11 +697,9 @@
 						"time": "85.247",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "the Printer,",
-=======
+
 					"caption": "Here, on the right side of the screen are the status buttons for Local Communications Activity,",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -767,11 +736,9 @@
 						"time": "90.862",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Device Status,",
-=======
+
 					"caption": "the Printer,",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -799,11 +766,9 @@
 						"time": "92.127",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "and Mail News Messages.",
-=======
+
 					"caption": "Device Status,",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -831,11 +796,9 @@
 						"time": "93.699",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "Touch one of these buttons to view that particular device's' status.",
-=======
+
 					"caption": "and Mail / News Messages.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -863,11 +826,9 @@
 						"time": "96.547",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "I'll touch the Printer button",
-=======
-					"caption": "Click one of these buttons to view that particular device's status.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -895,11 +856,9 @@
 						"time": "100.182",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "and the current status - \"Ready\" displays.",
-=======
-					"caption": "I'll touch the Printer button",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -927,11 +886,9 @@
 						"time": "101.964",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "The Mail icon will indicate news messages from the West Virginia Lottery and also acts as a shortcut button to the Mail screen.",
-=======
-					"caption": "and the current status – \"Ready\" displays.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -968,11 +925,9 @@
 						"time": "104.902",
 						"play": true
 					},
-<<<<<<< HEAD
+
 					"caption": "The current date and time display here,",
-=======
-					"caption": "The Mail icon will indicate news messages from the West Virginia Lottery and also acts as a shortcut button to the Mail screen.",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -1000,11 +955,9 @@
 						"time": "111.849",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "and the earliest date of birth to meet the legal age to purchase lottery products displays here for easy reference!",
-=======
+
 					"caption": "The current Date and Time display here",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -1041,11 +994,9 @@
 						"time": "114.731",
 						"play": true
 					},
-<<<<<<< HEAD
-					"caption": "We'll cover the rest of the features of your terminal application in the next lessons. Let's move on!",
-=======
+
 					"caption": "and the earliest date of birth to meet the legal age to purchase lottery products displays here for easy reference!",
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 					"overlays": [
 						{
 							"left": 0,
@@ -1075,9 +1026,7 @@
 							}
 						}
 					]
-<<<<<<< HEAD
-				}]
-=======
+
 				},
 				{
 
@@ -1108,7 +1057,7 @@
 					]
 				}
 				]
->>>>>>> e430dfa0e968be8ce97f7ae45ef903e6f3695f87
+
 },
 				{
 
