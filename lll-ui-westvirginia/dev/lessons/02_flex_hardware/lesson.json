@@ -64,7 +64,19 @@
 						"time": "31.97",
 						"play": true
 					},
-					"caption": "Play Slips and Draw Game tickets are fed through here"
+					"caption": "Play Slips and Draw Game tickets are fed through here",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/insert-playslip-reader.png",
+								
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -72,7 +84,20 @@
 						"time": "34.9",
 						"play": true
 					},
-					"caption": "and then fall into the Stacker at the bottom."
+					"caption": "and then fall into the Stacker at the bottom.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/playslip-stacker.png",
+								
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+					
 				},
 				
 				{
@@ -87,7 +112,8 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip.png",
+								"url": "lessons/shared/images/insert-playslip-reader.png",
+								
 								"width": 800,
 								"height": 450
 							}
@@ -108,7 +134,19 @@
 						"time": "48.62",
 						"play": true
 					},
-					"caption": "The Bar code Scanner is used to quickly read barcodes. "
+					"caption": "The Bar code Scanner is used to quickly read barcodes. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-tkt.png",
+								
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -124,27 +162,7 @@
 						"time": "56.165",
 						"play": true
 					},
-					"caption": "as well as the terminal’s second power button. The second power button is the On/Off switch you see on the back of the terminal.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "as well as the terminal’s second power button. The second power button is the On/Off switch you see on the back of the terminal."
 				},
 				{
 
@@ -171,7 +189,7 @@
 					"caption": "To maximize your counter space, there is a shelf on the back of your terminal. ",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/terminal-shelf.png",
