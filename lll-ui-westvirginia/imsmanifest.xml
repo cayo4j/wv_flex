@@ -47,13 +47,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -86,13 +86,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -126,13 +126,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -166,13 +166,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -205,13 +205,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -244,13 +244,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -283,13 +283,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -323,13 +323,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -363,13 +363,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -403,13 +403,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -443,13 +443,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -483,13 +483,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -523,13 +523,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -563,13 +563,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -603,13 +603,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -643,13 +643,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -683,13 +683,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -723,13 +723,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -763,13 +763,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -806,7 +806,7 @@
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:postConditionRule>
                 <imsss:ruleConditions conditionCombination="all">

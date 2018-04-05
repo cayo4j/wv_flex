@@ -67,7 +67,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -75,12 +75,12 @@
 		                   
 						},
 						{
-							"left": 62,
+							"left": 66,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/helpButton.png",
-								"width": 32,
-								"height": 32
+								"url": "lessons/shared/images/03ax_1.png",
+								"width": 44,
+								"height": 42
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -104,7 +104,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -112,12 +112,12 @@
 		                   
 						},
 						{
-							"left": 125,
-							"top": 2,
+							"left": 138,
+							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/status-bar.png",
-								"width": 522,
-								"height": 28
+								"url": "lessons/shared/images/03ax_2.png",
+								"width": 490,
+								"height": 38
 							},
 							"blink": "triple",
 		                    "isSubmit": true,
@@ -141,7 +141,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -149,12 +149,12 @@
 		                   
 						},
 						{
-							"left": 125,
-							"top": 32,
+							"left": 137,
+							"top": 34,
 							"image": {
-								"url": "lessons/shared/images/breadcrumbs.png",
-								"width": 476,
-								"height": 31
+								"url": "lessons/shared/images/03ax_3.png",
+								"width": 491,
+								"height": 38
 							},
 							"blink": "triple",
 		                    "isSubmit": true,
@@ -178,7 +178,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -186,12 +186,12 @@
 		                   
 						},
 						{
-							"left": 763,
-							"top": 3,
+							"left": 757,
+							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/mail-icon.png",
-								"width": 30,
-								"height": 28
+								"url": "lessons/shared/images/03ax_4.png",
+								"width": 37,
+								"height": 38
 							},
 							"blink": "triple",
 		                    "isSubmit": true,
@@ -215,7 +215,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -223,12 +223,12 @@
 		                   
 						},
 						{
-							"left": 5,
-							"top": 1,
+							"left": 6,
+							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/sign-out.png",
-								"width": 59,
-								"height": 32
+								"url": "lessons/shared/images/03ax_5.png",
+								"width": 66,
+								"height": 43
 							},
 							"blink": "triple",
 		                    "isSubmit": true,
