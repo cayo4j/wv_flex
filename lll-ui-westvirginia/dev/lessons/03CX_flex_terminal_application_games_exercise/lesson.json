@@ -13,27 +13,7 @@
                         "time": 0,
                         "play": true
                     },
-                    "caption": "Here's the player now!",
-                    "overlays": [
-                        {
-                            "left": -9999,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/homescreen.jpg",
-                                "width": 800,
-                                "height": 450
-                            }
-                        },
-                        {
-                            "left": -9999,
-                            "top": 180,
-                            "image": {
-                                "url": "lessons/shared/images/powerball_btn.png",
-                                "width": 74,
-                                "height": 34
-                            }
-                        }
-                    ]
+                    "caption": "Here's the player now!"
                 },
                 {
                     "videoControl": {
@@ -73,7 +53,7 @@
                 },
 		{
 			"type": "guiSimulation",
-			"name": "Your New Altura Flex Terminal – Game Buttons – Exercise ",
+			"name": "Game Buttons – Exercise ",
 			"label": " ",
                     "caption": " ",
                     "overlays": [

@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Play Slip Reader - Exercise",
+			"name": "Reader - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-exercise.png",
 								"width": 800,
 								"height": 450
 							}
@@ -33,7 +33,7 @@
 		
 		{
 			"type": "multipleChoice",
-			"name": "Play Slip Reader - Exercise",
+			"name": "Reader - Exercise",
 			"label": "True or False: Play Slips must be inserted into the Reader vertically.",
 			"options": [
 				{

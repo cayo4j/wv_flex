@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "External Barcode Scanner - Exercise",
+			"name": "Barcode Scanner - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/wv-logo-exercise.png",
 								"width": 800,
 								"height": 450
 							}
@@ -32,7 +32,7 @@
 		},
 		{
 			"type": "multipleChoice",
-			"name": "External Barcode Scanner - Exercise",
+			"name": "Barcode Scanner - Exercise",
 			"label": "True or False: The external barcode scanner must remain in the cradle to use it.",
 			"options": [
 				{

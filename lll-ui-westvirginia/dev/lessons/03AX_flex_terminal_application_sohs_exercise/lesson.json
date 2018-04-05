@@ -88,7 +88,7 @@
 						},
                         {
                             "left": 552,
-                            "top": 155,
+                            "top": 200,
                             "label": "Find the Help button."
                         }
 					],
@@ -125,7 +125,7 @@
 						},
                         {
                             "left": 552,
-                            "top": 155,
+                            "top": 200,
                             "label": "Find the Status Bar."
                         }
 					],
@@ -162,7 +162,7 @@
 						},
                         {
                             "left": 552,
-                            "top": 155,
+                            "top": 200,
                             "label": "Find the Breadcrumbs."
                         }
 					],
@@ -199,7 +199,7 @@
 						},
                         {
                             "left": 552,
-                            "top": 155,
+                            "top": 200,
                             "label": "Find the Mail icon."
                         }
 					],
@@ -236,7 +236,7 @@
 						},
                         {
                             "left": 552,
-                            "top": 155,
+                            "top": 200,
                             "label": "Find the Sign Off button."
                         }
 					],

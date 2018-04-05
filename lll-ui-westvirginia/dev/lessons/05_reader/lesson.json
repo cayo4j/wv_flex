@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Play Slip Reader",
+			"name": "Reader",
 			"video": {
-				"url": "lessons/shared/videos/PlaySlipReader.mp4"
+				"url": "lessons/shared/videos/Reader _WestVirginia.mp4"
 			},
 
 				"cuepoints": [
@@ -24,24 +24,13 @@
 						"time": "2.326",
 						"play": true
 					},
-					"caption": "The Reader is located on the top of the Touch Screen",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The Reader is located on the top of the Touch Screen"
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "5.09",
+						"time": "4.80",
 						"play": true
 					},
 					"caption": "and is used to quickly produce wagers using Play Slips and validate Draw Game tickets.",
@@ -92,15 +81,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -116,7 +96,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
 								"width": 800,
 								"height": 450
 							}
