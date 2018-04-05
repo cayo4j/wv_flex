@@ -67,7 +67,7 @@
 				{
 
 					"videoControl" : {
-						"time": "13.915",
+						"time": "8.605",
 						"play": true
 					},
 					"caption": "The screen is also adjustable and may be positioned up"
@@ -76,7 +76,7 @@
 				{
 
 					"videoControl" : {
-						"time": "17.42",
+						"time": "12.337",
 						"play": true
 					},
 					"caption": "or down to the desired height and angle."
@@ -85,7 +85,7 @@
 				{
 
 					"videoControl" : {
-						"time": "19.64",
+						"time": "15.587",
 						"play": true
 					},
 					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass."
@@ -94,7 +94,7 @@
 				{
 
 					"videoControl" : {
-						"time": "26.324",
+						"time": "22.561",
 						"play": true
 					},
 					"caption": "Do not use objects such as pens, pencils or long fingernails.  ",
@@ -113,7 +113,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.172",
+						"time": "27.413",
 						"play": true
 					},
 					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.  "
@@ -122,7 +122,7 @@
 				{
 
 					"videoControl" : {
-						"time": "36.543",
+						"time": "32.98",
 						"play": true
 					},
 					"caption": "Cleaning the Touch Screen is the same, use non-ammonia cleaning solution on a soft-lint-free cloth and gently wipe the screen. ",
@@ -141,7 +141,7 @@
 				{
 
 					"videoControl" : {
-						"time": "44.243",
+						"time": "40.295",
 						"play": true
 					},
 					"caption": "Never spray solution directly onto the screen.",
@@ -157,7 +157,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "43.496",
 						"play": true
 					},
 					"caption": "And, remember to Lock your Touch Screen before cleaning to avoid placing wagers by accident.",
@@ -166,7 +166,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/lock-screen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}

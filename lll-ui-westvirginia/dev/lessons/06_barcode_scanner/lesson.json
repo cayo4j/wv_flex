@@ -15,7 +15,18 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's take a closer look at the new Bar Code Scanner."
+					"caption": "Let's take a closer look at the new Bar Code Scanner.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/barcode-scanner.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -129,7 +140,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/barcode-scanner.png",
+								"url": "lessons/shared/images/scan-online-handheld.png",
 								"width": 800,
 								"height": 450
 							}
