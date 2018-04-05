@@ -192,7 +192,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-shelf.png",
+								"url": "lessons/shared/images/terminal-back-shelf.png",
 								"width": 800,
 								"height": 450
 							}
@@ -211,16 +211,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-shelf.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -241,27 +232,7 @@
 						"time": "95.051",
 						"play": true
 					},
-					"caption": "First is the round button on the front of the terminal.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "First is the round button on the front of the terminal."
 				},
 				{
 

@@ -80,7 +80,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/sign-on-clerk.png",
+								"url": "lessons/shared/images/sign-on-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/clerkNumber.png",
 								"width": 800,
 								"height": 450
 							}
@@ -102,7 +111,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/sign-on-passnum.png",
+								"url": "lessons/shared/images/sign-on-clerk.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/passNumber.png",
 								"width": 800,
 								"height": 450
 							}
@@ -121,7 +139,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -167,10 +185,10 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message-ok.png",
+								"url": "lessons/shared/images/printMessage.png",
 								"width": 800,
 								"height": 450
 							}
@@ -190,6 +208,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/news-message.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/okButton.png",
 								"width": 800,
 								"height": 450
 							}
@@ -219,7 +246,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message-two-print.png",
+								"url": "lessons/shared/images/okTouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -239,15 +266,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen-status-bar.png",
 								"width": 800,
 								"height": 450
 							}
@@ -282,15 +300,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen-logged-in.png",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -317,7 +326,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen-logged-in.png",
+								"url": "lessons/shared/images/signoutHelpLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -345,7 +354,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen-lock-signout.png",
+								"url": "lessons/shared/images/helpButton2.png",
 								"width": 800,
 								"height": 450
 							}
@@ -375,7 +384,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen-help.png",
+								"url": "lessons/shared/images/helpButton2Touch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -421,6 +430,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/helpScreenTouchOK.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -447,7 +465,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/help-screen-ok.png",
+								"url": "lessons/shared/images/specFuncMenu.png",
 								"width": 800,
 								"height": 450
 							}
@@ -477,7 +495,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbs.png",
+								"url": "lessons/shared/images/homeButton4.png",
 								"width": 800,
 								"height": 450
 							}
@@ -504,26 +522,8 @@
 							}
 						},
 						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbs.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 122,
-							"top": 46,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						},
-						{
-                            "left": 406,
-                            "top": 47,
+                            "left": 306,
+                            "top": 247,
                             "label": "Breadcrumb Navigation",
                             "blink": "none"						
 						}
@@ -550,18 +550,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services-mail-btn.png",
+								"url": "lessons/shared/images/touchMailButton7.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 205,
-							"top": 110,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -587,7 +578,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbs.png",
+								"url": "lessons/shared/images/homeButton4.png",
 								"width": 800,
 								"height": 450
 							}
@@ -609,15 +600,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/mail-screen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_mail_screen_services.png",
 								"width": 800,
 								"height": 450
 							}
@@ -647,7 +629,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_mail_screen_services.png",
+								"url": "lessons/shared/images/breadcrumbTouchSF.png",
 								"width": 800,
 								"height": 450
 							}
@@ -677,7 +659,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_servicesHome.png",
+								"url": "lessons/shared/images/breadcrumbTouchHome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -707,18 +689,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_servicesHome.png",
+								"url": "lessons/shared/images/localCommActivity.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 123,
-							"top": 48,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -746,7 +719,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_communications.png",
+								"url": "lessons/shared/images/printerIcon.png",
 								"width": 800,
 								"height": 450
 							}
@@ -776,7 +749,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_printer.png",
+								"url": "lessons/shared/images/deviceStats.png",
 								"width": 800,
 								"height": 450
 							}
@@ -806,7 +779,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_devices.png",
+								"url": "lessons/shared/images/mailNewsIcon.png",
 								"width": 800,
 								"height": 450
 							}
@@ -831,16 +804,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_mail.png",
-								"width": 800,
-								"height": 450
-							}
-						} 
+						}
 					]
 				},
 				{
@@ -866,7 +830,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_all_status_buttons.png",
+								"url": "lessons/shared/images/printerIconTouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -896,18 +860,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_printer.png",
+								"url": "lessons/shared/images/printerReadyToolTip.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 668,
-							"top": 16,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -935,18 +890,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_printer.png",
+								"url": "lessons/shared/images/mailNewsIcon.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": 668,
-							"top": 16,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -974,16 +920,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_mail.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_date_time.png",
+								"url": "lessons/shared/images/dateAndTimeIcon.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1013,16 +950,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_date_time.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_legal_age.png",
+								"url": "lessons/shared/images/legalAgeDisplay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1043,15 +971,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_legal_age.png",
 								"width": 800,
 								"height": 450
 							}
