@@ -109,7 +109,18 @@
 						"time": "26.552",
 						"play": true
 					},
-					"caption": "Right here on top of the Touch Screen is a silver Release Button that allows the Touch Screen to open like a door."
+					"caption": "Right here on top of the Touch Screen is a silver Release Button that allows the Touch Screen to open like a door.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -117,7 +128,18 @@
 						"time": "32.102",
 						"play": true
 					},
-					"caption": "If I press this button and pull the Touch Screen forward, I see a second door."
+					"caption": "If I press this button and pull the Touch Screen forward, I see a second door.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -125,7 +147,18 @@
 						"time": "36.822",
 						"play": true
 					},
-					"caption": "This door has a green button that looks like a down arrow."
+					"caption": "This door has a green button that looks like a down arrow.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -133,7 +166,18 @@
 						"time": "40.339",
 						"play": true
 					},
-					"caption": "I open this second door the same way"
+					"caption": "I open this second door the same way",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-03.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -141,7 +185,18 @@
 						"time": "42.592",
 						"play": true
 					},
-					"caption": "and gently clear away the jammed paper."
+					"caption": "and gently clear away the jammed paper.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-03.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 

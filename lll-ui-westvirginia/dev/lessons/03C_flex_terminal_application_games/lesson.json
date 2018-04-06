@@ -31,16 +31,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_game_buttons.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/gameButtonArea.png",
 								"width": 800,
 								"height": 450
 							}
@@ -68,7 +59,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_game_buttons.png",
+								"url": "lessons/shared/images/gameButtonArea.png",
 								"width": 800,
 								"height": 450
 							}
@@ -96,16 +87,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_game_buttons.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_ez_picks.png",
+								"url": "lessons/shared/images/quickPicksArea.png",
 								"width": 800,
 								"height": 450
 							}
@@ -128,24 +110,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_ez_picks.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/playslip-collage.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -165,15 +129,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-playslip-horizontal.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -190,15 +145,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/insert-playslip-reader.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -259,6 +205,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerballTouch.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 
@@ -272,30 +227,12 @@
 					"caption": "and the Powerball options screen displays.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-options.png",
 								"width": 800,
 								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_powerball.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 136,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}
 						}
 					]
@@ -314,33 +251,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-options.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_powerball.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 259,
-							"top": 196,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/powerball-options.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -365,7 +275,7 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/btn_all_options.png",
@@ -388,24 +298,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-options.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_all_options.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_1draw_orange.png",
 								"width": 800,
 								"height": 450
 							}
@@ -433,7 +325,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_1draw_orange.png",
+								"url": "lessons/shared/images/powerballOptionsTouch4.png",
 								"width": 800,
 								"height": 450
 							}
@@ -456,33 +348,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_1draw_orange.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_3draw_orange.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 156,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
 						}
 					]
 				},
@@ -502,33 +367,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_3draw_orange.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 128,
-							"top": 218,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/powerball-3draws.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -545,6 +383,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-4Draws.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pb4DrawsManualQuick.png",
 								"width": 800,
 								"height": 450
 							}
@@ -569,10 +416,10 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_manual_easy.png",
+								"url": "lessons/shared/images/powerballTouchManualPick.png",
 								"width": 800,
 								"height": 450
 							}
@@ -592,24 +439,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-manual-entry.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_manual_easy.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_manual_only.png",
 								"width": 800,
 								"height": 450
 							}
@@ -637,25 +466,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_manual_only.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 585,
-							"top": 111,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/powerball-manual-entry.jpg",
+								"url": "lessons/shared/images/highlightNumbers.png",
 								"width": 800,
 								"height": 450
 							}
@@ -678,6 +489,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/highlightQuickPick.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -694,15 +514,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-4Draws-numbers.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_easy_pick.png",
 								"width": 800,
 								"height": 450
 							}
@@ -730,16 +541,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_easy_pick.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/powerball-numbers.jpg",
+								"url": "lessons/shared/images/evenThePowerball.png",
 								"width": 800,
 								"height": 450
 							}
@@ -781,6 +583,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/highlightGameTabs.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -802,19 +613,10 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-manual-entry.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_gameTabs.png",
+								"url": "lessons/shared/images/highlightGameTabs.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -834,15 +636,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-4Draws-numbers.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_gameTabs.png",
 								"width": 800,
 								"height": 450
 							}
@@ -870,16 +663,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_gameTabs.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_powerball_tab.png",
+								"url": "lessons/shared/images/touchCash25Here.png",
 								"width": 800,
 								"height": 450
 							}
@@ -902,24 +686,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_powerball_tab.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_grey_tabs.png",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -939,18 +705,10 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_grey_tabs.png",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
-				}]
+				}
+				]
 },
 				{
 

@@ -68,7 +68,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-01.jpg",
+								"url": "lessons/shared/images/reader-exercise-01.png",
 								"width": 800,
 								"height": 450
 							},
@@ -108,7 +108,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-02.jpg",
+								"url": "lessons/shared/images/reader-exercise-02.png",
 								"width": 800,
 								"height": 450
 							},
@@ -148,7 +148,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-03.jpg",
+								"url": "lessons/shared/images/reader-exercise-03.png",
 								"width": 800,
 								"height": 450
 							},
@@ -156,11 +156,11 @@
 		                   
 						},
 						{
-							"left": 354,
+							"left": 470,
 							"top": 207,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-03-btn.png",
-								"width": 116,
+								"url": "lessons/shared/images/03ax_3.png",
+								"width": 160,
 								"height": 240
 							},
                             "blink": "triple",
@@ -189,7 +189,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-04.jpg",
+								"url": "lessons/shared/images/reader-exercise-04.png",
 								"width": 800,
 								"height": 450
 							},

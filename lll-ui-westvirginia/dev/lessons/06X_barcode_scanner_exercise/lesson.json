@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Barcode Scanner - Exercise",
+			"name": "Bar Code Scanner - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -32,8 +32,8 @@
 		},
 		{
 			"type": "multipleChoice",
-			"name": "Barcode Scanner - Exercise",
-			"label": "True or False: The external barcode scanner must remain in the cradle to use it.",
+			"name": "Bar Code Scanner - Exercise",
+			"label": "True or False: The Bar Code Scanner must remain in the cradle to use it.",
 			"options": [
 				{
 					"label": "True",
@@ -47,11 +47,37 @@
 			"feedback": {
 				"valid": {
 					"label": "Right! ",
-					"text": "The external barcode scanner can remain in the cradle or be used as a handheld device."
+					"text": "The Bar Code Scanner can remain in the cradle or be used as a handheld device."
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": " the correct answer is False. The external barcode scanner can remain in the cradle or be used as a handheld device."
+					"text": " the correct answer is False. The Bar Code Scanner can remain in the cradle or be used as a handheld device."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Bar Code Scanner - Exercise",
+			"label": "True or False: The Bar Code Scanner is used to scan both Scratch Offs and Draw Game Ticket bar codes.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "You are Right! ",
+					"text": "The Bar Code Scanner is used to read both Scratch Offs and Draw Game ticket bar codes."
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "the correct answer is True."
 				}
 			},
 			"pointsAvailable": 0.5

@@ -66,10 +66,10 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_terminalSettings.png",
+								"url": "lessons/shared/images/mostUsedFunctions.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -97,7 +97,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_terminalSettings.png",
+								"url": "lessons/shared/images/terminalSettings.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -125,18 +125,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_terminalSettings.png",
+								"url": "lessons/shared/images/terminalSettingsTouch.png",
 								"width": 800,
 								"height": 450
-							}						
-						},
-						{
-							"left": 41,
-							"top": 82,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}						
 						}
 					]
@@ -181,7 +172,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_brightness.png",
+								"url": "lessons/shared/images/brightness.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -209,7 +200,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_trainingValidation.png",
+								"url": "lessons/shared/images/volumeLevel.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -237,7 +228,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbs.png",
+								"url": "lessons/shared/images/terminal-settingsBreadcrumbs.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -284,18 +275,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_breadcrumbsHome.png",
+								"url": "lessons/shared/images/terminal-settingsBreadcrumbsTouch.png",
 								"width": 800,
 								"height": 450
-							}						
-						},
-						{
-							"left": 118,
-							"top": 46,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}						
 						} 
 					]
@@ -321,7 +303,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_services.png",
+								"url": "lessons/shared/images/specialFunctionsMenu.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -349,18 +331,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_services.png",
+								"url": "lessons/shared/images/specialFunctionsMenuTouch.png",
 								"width": 800,
 								"height": 450
-							}						
-						},
-						{
-							"left": 42,
-							"top": 111,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}						
 						} 
 					]
@@ -443,20 +416,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_servicesHome.png",
+								"url": "lessons/shared/images/terminal-settingsBreadcrumbsTouch.png",
 								"width": 800,
 								"height": 450
 							}						
-						},
-						{
-							"left": 117,
-							"top": 44,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
+						}
 					]
 				},
 				{
@@ -480,7 +444,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_reprints_reports_cancel.png",
+								"url": "lessons/shared/images/reportsSlide.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -508,7 +472,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_reprints_cancel.png",
+								"url": "lessons/shared/images/reportsSlideTouch.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -531,15 +495,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_reports.png",
-								"width": 800,
-								"height": 450
-							}						
 						}
 					]
 				},
@@ -557,6 +512,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/reports-menu.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/winnerInfoTouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -579,7 +543,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash25Touch.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
@@ -603,7 +576,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_winner.png",
+								"url": "lessons/shared/images/touchSendWinnerInfo.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -626,25 +599,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_winner.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": 216,
-							"top": 205,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
+						}
 					]
 				},
 				{
@@ -668,20 +623,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_cash5.png",
+								"url": "lessons/shared/images/numCopiesPrint.png",
 								"width": 800,
 								"height": 450
 							}						
-						},
-						{
-							"left": 204,
-							"top": 107,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
+						}
 					]
 				},
 				{
@@ -700,25 +646,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_send.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": 448,
-							"top": 253,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
+						}
 					]
 				},
 				{
@@ -731,12 +659,21 @@
 					"overlays": [
 						{
 							"left": 0,
-							"top": 0,
+							"top": 0,  
 							"image": {
 								"url": "lessons/shared/images/winner-info-cash25.png",
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/terminal-settingsBreadcrumbsTouch.png",
+								"width": 800,
+								"height": 450
+							}						
 						} 
 					]
 				},
@@ -761,7 +698,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_number_print.png",
+								"url": "lessons/shared/images/onlineValInstantVal.png",
 								"width": 800,
 								"height": 450
 							}						
@@ -808,18 +745,9 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/btn_cash5_home.png",
+								"url": "lessons/shared/images/onlineValTouch.png",
 								"width": 800,
 								"height": 450
-							}						
-						},
-						{
-							"left": 119,
-							"top": 49,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
 							}						
 						} 
 					]
@@ -840,15 +768,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_online_instant.png",
-								"width": 800,
-								"height": 450
-							}						
 						}
 					]
 				},
@@ -865,6 +784,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/online-functions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validateTicketFunction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -906,6 +834,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/onlineValTouch.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -925,25 +862,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/btn_onlineValidation.png",
-								"width": 800,
-								"height": 450
-							}						
-						},
-						{
-							"left": 71,
-							"top": 252,
-							"image": {
-								"url": "lessons/shared/images/hand-up.png",
-								"width": 76,
-								"height": 132
-							}						
-						} 
+						}
 					]
 				},
 				{
@@ -981,7 +900,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instantVal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
@@ -997,6 +925,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-functions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validateTicket129.png",
 								"width": 800,
 								"height": 450
 							}
