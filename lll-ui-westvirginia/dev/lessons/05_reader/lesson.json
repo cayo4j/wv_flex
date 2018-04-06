@@ -259,15 +259,6 @@
                             "blink": "none"							
 						}
 					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "53.572",
-						"play": true
-					},
-					"caption": ""
-
 				}
 ]
 },

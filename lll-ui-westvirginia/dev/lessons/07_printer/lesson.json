@@ -101,7 +101,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/paper-roll.png",
+								"url": "lessons/shared/images/printer-sensor-highlights.png",
 								"width": 800,
 								"height": 450
 							}
@@ -120,7 +120,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-sensor-highlights.png",
+								"url": "lessons/shared/images/printer-door-opened.png",
 								"width": 800,
 								"height": 450
 							}
@@ -191,7 +191,7 @@
 				{
 
 					"videoControl" : {
-						"time": "52.167",
+						"time": "51.8",
 						"play": true
 					},
 					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded.",
@@ -234,7 +234,7 @@
 				{
 
 					"videoControl" : {
-						"time": "70.071",
+						"time": "69.9",
 						"play": true
 					},
 					"caption": "The Flex terminal screen displays the warning PRINTER DOOR OPENED.",
@@ -357,6 +357,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printerTest1.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -373,6 +382,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/special-functions.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printerTest2.png",
 								"width": 800,
 								"height": 450
 							}

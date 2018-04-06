@@ -313,17 +313,7 @@
                             "left": 15,
                             "top": 10,
                             "label": "Almost done.  Run your Printer Test."
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
+                        }
 					],
 				
 					"reveal": {
@@ -337,7 +327,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -348,7 +338,7 @@
 							"left": 7,
 							"top": 99,
 							"image": {
-								"url": "lessons/shared/images/btn_services_printer_ex.png",
+								"url": "lessons/shared/images/03ax_3.png",
 								"width": 116,
 								"height": 29
 							},
@@ -360,17 +350,7 @@
                             "left": 14,
                             "top": 400,
                             "label": "Almost done.  Run your Printer Test."
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
+                        }
 					],
 				
 					"reveal": {
