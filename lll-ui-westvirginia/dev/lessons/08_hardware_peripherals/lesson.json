@@ -15,18 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "I want to talk briefly about some of the peripheral hardware you will have in your store.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "I want to talk briefly about some of the peripheral hardware you will have in your store."
 
 				},
 				{
@@ -41,7 +30,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.png",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -66,16 +55,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -94,7 +74,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -113,16 +93,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-power-button.png",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -141,7 +112,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -151,15 +122,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/esmm-power-button.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/coach-anthony-centered.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -178,16 +140,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"url": "lessons/shared/images/esmm-monitor-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -223,10 +176,10 @@
 					"caption": "The Ticket Scan Plus is the next generation of self-service designed for players to check their Draw Game and Scratch Off tickets for winning ticket status without interrupting your store routine.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.png",
+								"url": "lessons/shared/images/tsp-scan-instant.png",
 								"width": 800,
 								"height": 450
 							}
@@ -249,15 +202,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -273,16 +217,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/retailer-handing-cash.jpg",
+								"url": "lessons/shared/images/tsp-scan-instant.png",
 								"width": 800,
 								"height": 450
 							}
