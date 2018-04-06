@@ -119,6 +119,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/silverReleaseButton.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -157,6 +166,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/greenReleaseButton.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -191,7 +209,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-03.png",
+								"url": "lessons/shared/images/reader-exercise-04.png",
 								"width": 800,
 								"height": 450
 							}
@@ -229,7 +247,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/insert-scratch-reader-no.png",
+								"url": "lessons/shared/images/reader-exercise-04.png",
 								"width": 800,
 								"height": 450
 							}
