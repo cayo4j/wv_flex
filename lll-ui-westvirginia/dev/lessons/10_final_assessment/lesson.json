@@ -45,7 +45,7 @@
 					"isCorrect": true
 				},
 				{
-					"label": "On the upper right corner of the touch screen frame",
+					"label": "On the bottom center of the touch screen frame",
 					"isCorrect": true
 				}
 			],
@@ -99,11 +99,11 @@
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": false
+					"isCorrect": true
 				},
 				{
 					"label": "False",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
@@ -312,6 +312,36 @@
 				"invalid": {
 					"label": "Incorrect.",
 					"text": "The correct response is: False."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "multipleChoice",
+			"name": "Assessment",
+			"label": "Multiple Choice: How can you check the status of terminal devices?",
+			"options": [
+				{
+					"label": "From the Terminal Settings function",
+					"isCorrect": false
+				},
+				{
+					"label": "Turn the terminal on and off again to test connected devices",
+					"isCorrect": false
+				},
+				{
+					"label": "Touch Device Statuses on the Home Screen",
+					"isCorrect": true
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "Well done.",
+					"text": "That is correct."
+				},
+				"invalid": {
+					"label": "Incorrect.",
+					"text": "The correct response is: Touch Device Statuses on the Home Screen."
 				}
 			},
 			"pointsAvailable": 0.5
