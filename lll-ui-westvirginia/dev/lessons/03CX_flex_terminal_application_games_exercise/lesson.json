@@ -31,12 +31,30 @@
                 },
                 {
                     "videoControl": {
-                        "time": 11,
+                        "time": 14,
                         "play": true
                     },
                     "caption": "Here are the game options for this player.  Go ahead and give it a shot!",
 					"overlays": [
 						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/homescreen.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        },
+                        {
                             "left": 25,
                             "top": 400,
                             "label": "WAGER OPTIONS: \nPowerball, 4 Draws.\n Numbers 1, 5, 10, 12, 15 and Powerball 2.  <br/>Power Play: No.",
@@ -48,6 +66,10 @@
 			"type": "guiSimulation",
 			"name": "Game Buttons – Exercise ",
 			"label": " ",
+			"videoControl": {
+                        "time": 18,
+                        "play": false
+                    },
                     "caption": " ",
                     "overlays": [
                         {
@@ -73,7 +95,7 @@
                             "left": 152,
                             "top": 77,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//p
+                                "url": "lessons/shared/images/03ax_4.png",
                                 "width": 108,
                                 "height": 33
                             },
@@ -121,7 +143,7 @@
                             "left": 183,
                             "top": 228,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//4draws
+                                "url": "lessons/shared/images/03ax_4.png",
                                 "width": 35,
                                 "height": 35
                             },
@@ -170,7 +192,7 @@
                             "left": 547,
                             "top": 107,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//manualpick
+                                "url": "lessons/shared/images/03ax_4.png",
                                 "width": 117,
                                 "height": 31
                             },
@@ -215,12 +237,12 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 211,
-                            "top": 136,
+                            "left": 210,
+                            "top": 149,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//1
-                                "width": 27,
-                                "height": 28
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -256,19 +278,19 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-number-1.png",
+                                "url": "lessons/shared/images/powerball-4draws-1.png",
                                 "width": 800,
                                 "height": 450
                             },
                             "isSubmit": true
                         },
                         {
-                            "left": 326,
-                            "top": 135,
+                            "left": 350,
+                            "top": 149,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//5
-                                "width": 30,
-                                "height": 28
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -304,19 +326,19 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-number-5.png",
+                                "url": "lessons/shared/images/powerball-4draws-5.png",
                                 "width": 800,
                                 "height": 450
                             },
                             "isSubmit": true
                         },
                         {
-                            "left": 474,
-                            "top": 136,
+                            "left": 526,
+                            "top": 149,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//10
-                                "width": 27,
-                                "height": 28
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -352,19 +374,19 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-number-10.png",
+                                "url": "lessons/shared/images/powerball-4draws-10.png",
                                 "width": 800,
                                 "height": 450
                             },
                             "isSubmit": true
                         },
                         {
-                            "left": 533,
-                            "top": 136,
+                            "left": 596,
+                            "top": 149,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//12
-                                "width": 26,
-                                "height": 28
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -400,19 +422,19 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-number-12.png",
+                                "url": "lessons/shared/images/powerball-4draws-12.png",
                                 "width": 800,
                                 "height": 450
                             },
                             "isSubmit": true
                         },
                         {
-                            "left": 621,
-                            "top": 137,
+                            "left": 717,
+                            "top": 149,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//15
-                                "width": 26,
-                                "height": 27
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -448,19 +470,19 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-number-15.png",
+                                "url": "lessons/shared/images/powerball-4draws-15.png",
                                 "width": 800,
                                 "height": 450
                             },
                             "isSubmit": true
                         },
                         {
-                            "left": 239,
-                            "top": 288,
+                            "left": 245,
+                            "top": 333,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//pb2
-                                "width": 28,
-                                "height": 27
+                                "url": "lessons/shared/images/03ax_4.png",
+                                "width": 36,
+                                "height": 36
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -498,7 +520,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-confirmation.png",
+                                "url": "lessons/shared/images/powerball-confirmationII.png",
                                 "width": 800,
                                 "height": 450
                             },
@@ -508,7 +530,7 @@
                             "left": 251,
                             "top": 320,
                             "image": {
-                                "url": "lessons/shared/images/03ax_4.png",//yes
+                                "url": "lessons/shared/images/03ax_4.png",
                                 "width": 65,
                                 "height": 34
                             },

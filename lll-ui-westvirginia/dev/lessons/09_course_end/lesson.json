@@ -21,10 +21,21 @@
 				{
 
 					"videoControl" : {
-						"time": "1.98",
+						"time": "1.4",
 						"play": true
 					},
-					"caption": "We went over all the pieces of your Flex terminal and your new terminal application."
+					"caption": "We went over all the pieces of your Flex terminal and your new terminal application.",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/flex-terminal-application.png",
+                                "width": 800,
+                                "height": 450
+                            }
+                        }
+                        ]
 				},
 				{
 
