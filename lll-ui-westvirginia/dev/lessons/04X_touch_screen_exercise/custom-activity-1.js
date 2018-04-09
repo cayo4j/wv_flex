@@ -35,12 +35,35 @@ function startGame(completedCallback) {
 	var canvasY;
 	var canvasX;
 
-
+    var stamping = false;
+    var step1 = true;
+    var step2 = false;
+    var step3 = false;
+    var step4 = false;
+    var step5 = false;
+    var step6 = false;
+    var step7 = false;
+    var step8 = false;
+    var step9 = false; 
+    var step10 = false;
+    var step11 = false;
+    var step12 = false;
+    var step13 = false;
+    var step14 = false;
+    var step15 = false;
+    var step16 = false;
+    var step17 = false;
 	
     $(document).ready(function() {
-
+        
 		var partArray = [{"name":"_ts"},{"name":"_pb"},{"name":"_rdr"},{"name":"_stkr"},{"name":"_scnr"},{"name":"_rear"}];	
 
+        
+         function isDoubleClicked(element) {
+
+                        console.log('\n\n\nPREVENTING DOUBLE CLICK! In CSS\n\n\n');
+
+         };
 
 		$('canvas').mousemove(function(e){
 
@@ -64,14 +87,18 @@ function startGame(completedCallback) {
 
 			switch(p){
 				case 0:
-				swal({title: "", text: "Look at the items and identify each one that should NOT be used on the Touch Screen. Touch or click those items to stamp them with a red X."});
+                 document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS:</b><br/>Press the Power Button on the Touch Screen frame to power it on.";   
+				//swal({title: "", text: "Look at the items and identify each one that should NOT be used on the Touch Screen. Touch or click those items to stamp them with a red X."});
 				break;
-				case 1:
-				swal({title: "", text: "Find another item you should never use on the Touch Screen."});
-				break;
-				case 2:
-				swal({title: "", text: "There is one more item you should never use, can you find it?"});
-				break;
+                //case 3:
+
+                   // break;  
+				//case 2:
+				//swal({title: "", text: "Find another item you should never use on the Touch Screen."});
+				//break;
+				//case 3:
+				//swal({title: "", text: "There is one more item you should never use, can you find it?"});
+				//break;
 
 			};
 		};
@@ -116,17 +143,54 @@ function startGame(completedCallback) {
 			
 		}
 		
-		
-		$('canvas').mousedown(function(e){
+$('canvas').css({'cursor': 'pointer'});
+//$('canvas').click(function(e){
+    $('canvas').on("click", function (e){
+            
+        if (isDoubleClicked($(this))) return;
 			//for debug and dev:
 			console.log('\n\n\n*****\nCanvas Touch\n*****\n\n\n' + counter);
 			console.log(canvasX + "\n\n\n" + canvasY);
 			console.log('Image index: ' + i);
 			console.log('The Part to ID is: ' + p);
 		
+   //first action
+            if(step1 == true){
+                  if(canvasX > 144 && canvasY > 96 && canvasX < 168 && canvasY < 105){
+                      step1 = false;
+                      step2 = true;
+                      swal({title:"", text:"Great job! That's exactly how you power up your terminal and sign on. I have another task for you."}, ()=>{
+                          xmarksthespots();
+                      });
+                    
+                  }else{
+                      if(step1 != false){swal({title: "Incorrect.", text: "Press the Power Button on the Touch Screen frame."});};
+                     
+                  }; 
+                
+            };
+    
+            
+                          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+		
+		if(stamping == true){
+            
 
-		
-		
 					if(pencilsClicked != true){
 	
 						if (canvasX > topLeftX_pencils && canvasY > topLeftY_pencils && canvasX < bottomRightX_pencils && canvasY < bottomRightY_pencils){
@@ -135,18 +199,13 @@ function startGame(completedCallback) {
 								p++;
 								pencilsClicked = true;
 								crossout();
-								swal({
-									title: "Good job!",
-									  text: "Do Not Use Pencils on the Touch Screen!",
-									  type: "success",
-									  showCancelButton: false,
-									  confirmButtonColor: "#40FF00",
-									  confirmButtonText: "Continue",
-									  closeOnConfirm: false
-									},
-									function(){
+								//swal({
+									//title: "Good job!",
+									 // text: "Do Not Use Pencils on the Touch Screen!"
+									//},
+									//function(){
 									 instructionation(p);
-								});
+								//});
 							
 						}
 					};
@@ -158,18 +217,13 @@ function startGame(completedCallback) {
 							p++;
 							pensClicked = true;
 							crossout();
-								swal({
-									title: "Good job!",
-									  text: "Do Not Use Pens on the Touch Screen!",
-									  type: "success",
-									  showCancelButton: false,
-									  confirmButtonColor: "#40FF00",
-									  confirmButtonText: "Continue",
-									  closeOnConfirm: false
-									},
-									function(){
+								//swal({
+									//title: "Good job!",
+									 // text: "Do Not Use Pens on the Touch Screen!"
+									//},
+									//function(){
 									 instructionation(p);
-								});							
+								//});							
 						}
 					};	
 						
@@ -180,31 +234,34 @@ function startGame(completedCallback) {
 							p++;
 							nailsClicked = true;
 							crossout();
-								swal({
-									title: "Good job!",
-									  text: "Do Not Use Fingernails on the Touch Screen!",
-									  type: "success",
-									  showCancelButton: false,
-									  confirmButtonColor: "#40FF00",
-									  confirmButtonText: "Continue",
-									  closeOnConfirm: false
-									},
-									function(){
+								//swal({
+									//title: "Good job!",
+									  //text: "Do Not Use Fingernails on the Touch Screen!"
+									//},
+									//function(){
 									 instructionation(p);
 									 
-								});							
+								//});							
 						}
 					};
+            
+            //fingertip or knuckles feedback
+            if(canvasX>17 && canvasY>90 && canvasX<93 && canvasY<149){
+               swal({title:"This item IS safe to use on the Touch Screen."}); 
+            };
+            if(canvasX>223 && canvasY>90 && canvasX<295 && canvasY<149){
+               swal({title:"This item IS safe to use on the Touch Screen."}); 
+            };            
 
 
 			
-
+        };//IF STAMPING
 
 		
 		
 			if (counter == 3) { 
 				finalScore = 3;
-				swal({title: "Nicely done!", text: "You identified all of the items that are NOT safe to use with the Touch Screen."});
+				swal({title: "Nicely done! You identified all of the items that are NOT safe to use with the Touch Screen.", text: " "});
 						// calling completion
 								finalScore = getCalculatedScore();
 								completedCallback(finalScore);//this ends the exercise.
@@ -214,11 +271,24 @@ function startGame(completedCallback) {
 		});
 		
 
-		
-		
-		
-		
-		
+        
+	 
+                  
+        
+       
+        
+        
+        function xmarksthespots(){
+            $('#photo').css({'background':'url(lessons/shared/images/touchscreen-01.jpg)no-repeat'});
+                        $('#photo').css({'background-size': '100%'});
+            document.getElementById("instructions").style.display = 'inline';
+            $('#instructions').css({'left': '10px'});
+          document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/><br/>Click those items to stamp them with a red X.";  
+            stamping = true;
+        }
+        
+        
+        
 		
 		function getCalculatedScore() {
 			var successRatio = 1;

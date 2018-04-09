@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": " ",
 			"label": "True or False:\nYou can use the Instant Validiation and Online Validation buttons on the Home Screen to validate scratch off and draw game tickets or you can use the corresponding Validate Ticket functions on the Instant Functions and Online Functions buttons, they work the same to validate tickets.",
 			"options": [

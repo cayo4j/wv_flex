@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Sign On and Home Screen - Exercise",
 			"label": "True or False: The procedure for Signing On to the new terminal will be different.",
 			"options": [

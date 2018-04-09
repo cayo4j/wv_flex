@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Bar Code Scanner - Exercise",
 			"label": "True or False: The Bar Code Scanner must remain in the cradle to use it.",
 			"options": [
@@ -57,7 +57,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Bar Code Scanner - Exercise",
 			"label": "True or False: The Bar Code Scanner is used to scan both Scratch Offs and Draw Game Ticket bar codes.",
 			"options": [

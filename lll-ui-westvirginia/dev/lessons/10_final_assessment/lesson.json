@@ -63,7 +63,7 @@
 			
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "Multiple Choice: What is the name of the device where Draw Game tickets and Play Slips are fed through to validate a ticket or place a wager?  ",
 			"options": [
@@ -93,7 +93,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "True or False: Scratch off tickets should NOT be placed in the reader. ",
 			"options": [
@@ -119,7 +119,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "True or False: The terminal will NOT function if it is not connected properly to the printer. ",
 			"options": [
@@ -179,7 +179,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "Fill-in the blank: When the terminal is powered on, the light on the touch screen frame will glow _____.",
 			"options": [
@@ -239,7 +239,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "True or False: All Reports are accessed from the Reports button on the Home Screen.",
 			"options": [
@@ -265,7 +265,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "True or False: Validation activities for Draw games may be completed through the Reader and Barcode Scanner, and Scratch Off games are validated with the Barcode Scanner.",
 			"options": [
@@ -291,7 +291,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "True or False: The external Barcode Scanner is only used to scan Draw Game Tickets.",
 			"options": [
@@ -317,7 +317,7 @@
 			"pointsAvailable": 0.5
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Assessment",
 			"label": "Multiple Choice: How can you check the status of terminal devices?",
 			"options": [

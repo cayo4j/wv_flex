@@ -12,12 +12,27 @@
 	}
 
 
+    #instructions{
+        position: absolute;
+       top:50px;
+        left:50px;
+        z-index:200;
+   height: auto;
+   width: 200px;
+   padding:5px;
+   text-align:left;
+   border: 2px solid gray;
+   background-color:aliceblue;
+    }
+    
+    
+    
 	#photo {
 			height:100%;
 			width:100%;
-	<!-- debug -->
+	/* debug */
 			position: absolute;
-			background:url('lessons/shared/images/touchscreen-01.jpg')no-repeat;
+			background:url('lessons/shared/images/flex-terminal-no-gui.png')no-repeat;
 			background-size: 100%; 
 			border-bottom: 10px solid #003D90;
 	}
@@ -29,15 +44,25 @@
 		left: 0px;
 		width: 95vw;
 		height: 95vh;
+            -webkit-user-select: none; /* webkit (safari, chrome) browsers */
+    -moz-user-select: none; /* mozilla browsers */
+    -khtml-user-select: none; /* webkit (konqueror) browsers */
+    -ms-user-select: none; /* IE10+ */
 	}		
 
-
+    #preloader{
+        left:-9999px;
+        top:0px;
+        width:800px;
+        height:450px;
+        display:none;
+    }
 	
 </style>
 <div id="cuepoint-workspace">
-
+    <div id="instructions"></div>
 <canvas id="interactionCanvas"></canvas>
-
+    
 <div id="photoHolder">
 	<div id="photo">
 
@@ -45,7 +70,17 @@
 
 </div>
 
+<div id="preloader">
+    <img src='lessons/shared/images/touchscreen-01.jpg'/>
+    <img src='lessons/shared/images/touchscreen-pencils.jpg'/>
+    <img src='lessons/shared/images/touchscreen-pens.jpg'/>
+    <img src='lessons/shared/images/touchscreen-nails.jpg'/>
+    <img src='lessons/shared/images/touchscreen-pencils-pens.jpg'/>
+    <img src='lessons/shared/images/touchscreen-nails-pencils.jpg'/>
+    <img src='lessons/shared/images/touchscreen-nails-pens.jpg'/>
+    <img src='lessons/shared/images/touchscreen-final.jpg'/>
 
+    </div>
 	
 	
 	
@@ -55,4 +90,4 @@
 	
 
 
-</div><!--playground-->
+

@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Function Buttons",
 			"video": {
-				"url": "lessons/shared/videos/Application_FunctionButtons_WestVirginia_v2.mp4"
+				"url": "lessons/shared/videos/Application_FunctionButtons_WestVirginia_v3.mp4"
 			},
 				"cuepoints": [
 
@@ -605,10 +605,10 @@
 				{
 
 					"videoControl" : {
-						"time": "71.884",
+						"time": "71.384",
 						"play": true
 					},
-					"caption": "You'll notice that the Number of Copies and Print buttons display at the bottom of the screen. ",
+					"caption": "You'll notice Print on all report screens so you can easily print copies of your reports for your records.  ",
 					"overlays": [
 						{
 							"left": 0,
@@ -630,29 +630,11 @@
 						}
 					]
 				},
+
 				{
 
 					"videoControl" : {
 						"time": "76.951",
-						"play": true
-					},
-					"caption": "These options display on all report screens so you can easily print copies of your reports for your records.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/winner-info-cash25.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "83.095",
 						"play": true
 					},
 					"caption": "I'll touch Home to return to the Home Screen.",
@@ -680,7 +662,7 @@
 				{
 
 					"videoControl" : {
-						"time": "85.829",
+						"time": "80.095",
 						"play": true
 					},
 					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Scratch Off tickets.",
@@ -708,7 +690,7 @@
 				{
 
 					"videoControl" : {
-						"time": "93.687",
+						"time": "87.829",
 						"play": true
 					},
 					"caption": "Remember, Draw Game tickets can be read using either the Reader or Bar code Scanner.",
@@ -727,7 +709,7 @@
 				{
 
 					"videoControl" : {
-						"time": "99.52",
+						"time": "93.687",
 						"play": true
 					},
 					"caption": "If you use the Reader, touch Online Validation",
@@ -755,7 +737,7 @@
 				{
 
 					"videoControl" : {
-						"time": "103.061",
+						"time": "97.52",
 						"play": true
 					},
 					"caption": "and drop the ticket into the Reader with the front play area facing you.",
@@ -774,7 +756,7 @@
 				{
 
 					"videoControl" : {
-						"time": "107.331",
+						"time": "101.061",
 						"play": true
 					},
 					"caption": "You could also use the Validate Ticket function on the Online Functions menu to validate a draw game ticket.",
@@ -802,7 +784,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.88",
+						"time": "107.331",
 						"play": true
 					},
 					"caption": "If you use the Barcode Scanner,",
@@ -821,7 +803,7 @@
 				{
 
 					"videoControl" : {
-						"time": "116.403",
+						"time": "110.58",
 						"play": true
 					},
 					"caption": "first, you must touch Online Validation",
@@ -849,7 +831,7 @@
 				{
 
 					"videoControl" : {
-						"time": "118.85",
+						"time": "113.403",
 						"play": true
 					},
 					"caption": "and then scan the ticket.",
@@ -868,7 +850,7 @@
 				{
 
 					"videoControl" : {
-						"time": "120.68",
+						"time": "115.85",
 						"play": true
 					},
 					"caption": "For Scratch Off tickets, you must use your Bar code Scanner to read the bar code. ",
@@ -887,7 +869,7 @@
 				{
 
 					"videoControl" : {
-						"time": "125.405",
+						"time": "120.68",
 						"play": true
 					},
 					"caption": "You can use the Instant Validation button here",
@@ -915,7 +897,7 @@
 				{
 
 					"videoControl" : {
-						"time": "129.013",
+						"time": "122.405",
 						"play": true
 					},
 					"caption": "or the Validate Ticket function on your Instant Functions menu.",
@@ -943,7 +925,7 @@
 				{
 
 					"videoControl" : {
-						"time": "133.585",
+						"time": "128.013",
 						"play": true
 					},
 					"caption": "Never insert Scratch Offs into the Reader at the top of the terminal as it will damage the Reader lens!",
@@ -962,7 +944,7 @@
 				{
 
 					"videoControl" : {
-						"time": "139.63",
+						"time": "133.585",
 						"play": true
 					},
 					"caption": "And that wraps up the Function Buttons!",
