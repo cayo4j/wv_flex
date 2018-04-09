@@ -120,10 +120,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-door-opened.png",
+								"url": "lessons/shared/images/printer-door-opened-error.png",
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 50,
+                            "top": 50,
+                            "label": "PAPER LOW",
+                            "blink": "none"	
 						} 
 					]
 				},
@@ -139,7 +145,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-door-opened.png",
+								"url": "lessons/shared/images/printer-door-opened-error.png",
 								"width": 800,
 								"height": 450
 							}
@@ -159,17 +165,17 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
+								"url": "lessons/shared/images/printer-door-opened-error.png",
 								"width": 800,
 								"height": 450
 							}
 						},
 						{
-							"left": 319,
-                            "top": 146,
+							"left": 50,
+                            "top": 50,
                             "label": "PAPER LOW",
                             "blink": "none"	
-						}
+						} 
 					]
 				},
 				{

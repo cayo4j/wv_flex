@@ -246,7 +246,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.png",
+								"url": "lessons/shared/images/flex-terminal-no-gui.png",
 								"width": 800,
 								"height": 450
 							}
@@ -268,7 +268,18 @@
 						"time": "104.01",
 						"play": true
 					},
-					"caption": "To power the terminal back on, push it once."
+					"caption": "To power the terminal back on, push it once.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-no-gui.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
