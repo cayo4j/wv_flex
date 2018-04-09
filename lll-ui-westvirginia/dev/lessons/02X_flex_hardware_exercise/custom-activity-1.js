@@ -193,25 +193,25 @@ function loadImages(){
 
             switch(p){
                 case 0:
-				swal({title:"", text:"Find the Touch Screen."});
+				swal({title:"Find the Touch Screen.", type: "info", text:""});
                 break;
                 case 1:
-				swal({title:"", text:"Find the Power Button."});
+				swal({title:"Find the Power Button.", type: "info", text:""});
                 break;
                 case 2:
-				swal({title:"", text:"Find the Play Slip Reader."});
+				swal({title:"Find the Play Slip Reader.", type: "info", text:""});
                 break;
                 case 3:
-				swal({title:"", text:"Find the Play Slip Stacker."});
+				swal({title:"Find the Play Slip Stacker.", type: "info", text:""});
                 break;
                 case 4:
-				swal({title:"", text:"Find the Barcode Scanner."});
+				swal({title:"Find the Barcode Scanner.", type: "info", text:""});
                 break;
                 case 5:
-				swal({title:"", text:"Find the Plugs and Connections."});
+				swal({title:"Find the Plugs and Connections.", type: "info", text:""});
                 break;
                 case 6:
-				swal({title:"", text:"Find the Terminal's Second Power Button."});
+				swal({title:"Find the Terminal's Second Power Button.", type: "info", text:""});
 					 console.log ('\n\n\n****\nNEW SCREEN jQuery\n****\n\n\n');
 				     $('.photo').css({'background': 'url(lessons/shared/images/back_of_terminal.jpg) no-repeat'});
 				     $('.photo').css({'background-size': '100%'});
@@ -930,7 +930,7 @@ function loadImages(){
                                 
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Touch Screen.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -954,7 +954,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Power Button.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -978,7 +978,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Play Slip Reader.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1002,7 +1002,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Play Slip Stacker.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1026,7 +1026,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Barcode Scanner.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1050,7 +1050,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "Those are the Terminal Connections.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1074,7 +1074,7 @@ function loadImages(){
                             //p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Second Power Button.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",

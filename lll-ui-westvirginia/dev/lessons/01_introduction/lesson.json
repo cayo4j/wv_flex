@@ -46,7 +46,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.png",
+								"url": "lessons/shared/images/flex-terminal-no-gui.png",
 								"width": 800,
 								"height": 450
 							}
@@ -65,16 +65,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/flex-terminal-no-gui.png",
 								"width": 800,
 								"height": 450
 							}
@@ -121,7 +112,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals2.png",
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
 								"width": 800,
 								"height": 450
 							}

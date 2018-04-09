@@ -65,7 +65,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: What is the name of the device where Draw Game tickets and Play Slips are fed through to validate a ticket or place a wager? ",
+			"label": "Multiple Choice: What is the name of the device where Draw Game tickets and Play Slips are fed through to validate a ticket or place a wager?  ",
 			"options": [
 				{
 					"label": "Stacker",
@@ -207,23 +207,23 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: The 22\" Multimedia Monitor (Select All That Apply):",
+			"label": "Multiple Choice: The ESMM Monitor (Select All That Apply):",
 			"options": [
 				{
-					"label": "Replaces the VFD display",
+					"label": "Displays Player Transaction Information",
 					"isCorrect": true
 				},
 				{
-					"label": "Player Transaction Information",
+					"label": "Displays Smart Shows for Advertising, Winner Awareness and Messaging",
 					"isCorrect": true
 				},
 				{
-					"label": "Smart Shows for Advertising, Winner Awareness and Messaging",
+					"label": "May be Placed on the Flex Terminal Shelf on the Back of the Terminal",
 					"isCorrect": true
 				},
 				{
-					"label": "Should be Placed on the Altura Flex Terminal Shelf on the Back of the Terminal",
-					"isCorrect": true
+					"label": "None of the Above ",
+					"isCorrect": false
 				}
 			],
 			"feedback": {
@@ -267,15 +267,15 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "True or False: Validation rules for Scratcher tickets and Draw Game tickets have changed with the new terminal.",
+			"label": "True or False: Validation activities for Draw games may be completed through the Reader and Barcode Scanner, and Scratch Off games are validated with the Barcode Scanner.",
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": false
+					"isCorrect": true
 				},
 				{
 					"label": "False",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
