@@ -112,12 +112,12 @@
 		                   
 						},
 						{
-							"left": 4,
-							"top": 33,
+							"left": 8,
+							"top": 2,
 							"image": {
 								"url": "lessons/shared/images/03ax_2.png",
-								"width": 139,
-								"height": 38
+								"width": 784,
+								"height": 67
 							},
 							"blink": "triple",
 		                    "isSubmit": true,

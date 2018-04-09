@@ -296,7 +296,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen-status-bar.png",
+								"url": "lessons/shared/images/newStatusBar.png",
 								"width": 800,
 								"height": 450
 							}
